@@ -4,14 +4,17 @@
     toggle.checked = false;
 
     toggle.addEventListener('keyup', ev => {
-        if (ev.code === 'Enter')
+        if (ev.code === 'Enter') {
             toggle.checked = !toggle.checked;
-        if (ev.code === 'Escape')
+        }
+        if (ev.code === 'Escape') {
             toggle.checked = false;
+        }
     });
 
     document.getElementById('menu').addEventListener('keyup', ev => {
-        if (ev.code === 'Escape')
+        if (ev.code === 'Escape') {
             toggle.checked = false;
+        }
     });
 })();
