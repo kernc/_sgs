@@ -14,9 +14,10 @@ page_order: 9
 We promptly respond to inquiries via the contact form below:
 
 
-<form id="contact" action="mailto:godalnisekstet" method="get">
-    <label><input name="cc" type="email" placeholder="Your e-mail" required><span>E-mail</span></label>
-    <label><input name="subject" placeholder="Subject" required><span>Subject</span></label>
-    <label><textarea name="body" placeholder="Your message" required></textarea><span>Message</span></label>
-    <button>Send e-mail</button>
+<form id="contact">
+    <label><input name="cc" type="email" placeholder="Your e-mail" required disabled><span>E-mail</span></label>
+    <label><input name="subject" placeholder="Subject" required disabled><span>Subject</span></label>
+    <label><textarea name="body" placeholder="Your message" required disabled></textarea><span>Message</span></label>
+    <button disabled>Send e-mail</button>
 </form>
+<noscript>Please enable JavaScript to use the contact form.</noscript>

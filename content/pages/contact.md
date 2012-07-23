@@ -14,9 +14,10 @@ page_order: 9
 Nemudoma se odzivamo tudi na sporočila preko naslednjega obrazca:
 
 
-<form id="contact" action="mailto:godalnisekstet" method="get">
-    <label><input name="cc" type="email" placeholder="Vaš e-mail" required><span>E-mail</span></label>
-    <label><input name="subject" placeholder="Zadeva" required><span>Zadeva</span></label>
-    <label><textarea name="body" placeholder="Vaše sporočilo" required></textarea><span>Sporočilo</span></label>
-    <button>Pošlji sporočilo</button>
+<form id="contact">
+    <label><input name="cc" type="email" placeholder="Vaš e-mail" required disabled><span>E-mail</span></label>
+    <label><input name="subject" placeholder="Zadeva" required disabled><span>Zadeva</span></label>
+    <label><textarea name="body" placeholder="Vaše sporočilo" required disabled></textarea><span>Sporočilo</span></label>
+    <button disabled>Pošlji e-mail</button>
 </form>
+<noscript>Za uporabo kontaktnega obrazca omogočite JavaScript.</noscript>
