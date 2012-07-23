@@ -19,8 +19,9 @@ body {
     align-content: space-between;
     min-height: 100vh;
 }
-body > main {
+main {
     flex-grow: 1;
+    background: white;
 }
 body > header {
     background: var(--header-bgcolor);
@@ -33,7 +34,7 @@ body > header {
 
     box-shadow: 0 4px 8px 0px rgba(0,0,0,.3);
 
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #233;
 }
 body > header a {
     color: var(--header-color);
@@ -65,6 +66,7 @@ body > header a[hreflang] {
     }
         #menu a[rel="home"] span {
             color: lightgoldenrodyellow;
+            font-size: .73em;
         }
 
     #menu ul {
@@ -166,10 +168,10 @@ body > main > article {
         font-weight: 500;
     }
         body > main > article a:hover {
-            filter: brightness(200%);
+            filter: brightness(300%);
         }
         body > main > article a:hover img {
-            filter: brightness(55%);  /* Highlighted half of hovered double */
+            filter: brightness(38%);  /* Highlighted half of hovered double */
         }
     body > main > article h1,
     body > main > article h2,
