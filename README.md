@@ -5,6 +5,7 @@ Installation
 3. `git clone this repo && cd workdir`
 4. `pip install -r requirements.txt`
 5. `git clone --depth 1 --recursive https://github.com/getpelican/pelican-plugins`
+6. To rebuild: `pelican -v`
 
 
 Content layout
