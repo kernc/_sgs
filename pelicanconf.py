@@ -136,7 +136,7 @@ SITEMAP = {
     'exclude': [],
 }
 
-PLUGINS.append('deadlinks')
+# ~ PLUGINS.append('deadlinks')
 DEADLINK_VALIDATION = True
 DEADLINK_OPTS = {
     'timeout_duration_ms': 10000,
