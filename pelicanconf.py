@@ -165,6 +165,7 @@ IMAGE_PROCESS = {
         'sizes': '100vw',
         'srcset': [
             ('400w', ['scale_out 400 0 False']),
+            ('600w', ['scale_out 600 0 False']),
             ('800w', ['scale_out 800 0 False']),
             ('1024w', ['scale_out 1024 0 False']),
             ('1366w', ['scale_out 1366 0 False']),
@@ -178,6 +179,7 @@ IMAGE_PROCESS = {
         'sizes': '100vw',
         'srcset': [
             ('400w', ['scale_out 400 0 False']),
+            ('600w', ['scale_out 600 0 False']),
             ('800w', ['scale_out 800 0 False']),
             ('1024w', ['scale_out 1024 0 False']),
             ('1366w', ['scale_out 1366 0 False']),
@@ -215,6 +217,7 @@ IMAGE_PROCESS = {
         'sizes': '100vw',
         'srcset': [
             ('400w', ['scale_out 400 0 False']),
+            ('600w', ['scale_out 600 0 False']),
             ('800w', ['scale_out 800 0 False']),
             ('1024w', ['scale_out 1024 0 False']),
             ('1366w', ['scale_out 1366 0 False']),
