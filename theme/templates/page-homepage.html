@@ -23,6 +23,17 @@
     <link itemprop="knowsAbout" href="http://dbpedia.org/page/Category:Chamber_music">
 
     <style>
+    .hero-image-container {
+        text-align:center;
+        border-bottom: 1em solid var(--header-bgcolor);
+    }
+        .hero-image {
+            width: 100%;
+            max-width: 145vh;
+            align-self: center;
+        }
+        main article { margin-top:0 !important; }
+
     .row {
         grid-gap: 4em;
         grid-auto-flow: column;
@@ -34,6 +45,10 @@
         }
     }
     @media (min-width: 1000px) { .row { padding: 3em; } }
+
+    .excerpt {
+        font-size: 1.1em;
+    }
 
     h4,
     h5 {
@@ -69,21 +84,18 @@
             max-width: 100%;
         }
 
-    @media (min-width: 550px) { .partners { column-count: 3; } }
-    @media (min-width: 700px) { .partners { column-count: 4; } }
-    @media (min-width: 1000px) { .partners { column-count: 5; } }
-    @media (min-width: 1400px) { .partners { column-count: 6; } }
-    @media (min-width: 1600px) { .partners { column-count: 7; } }
-
-    .homepage-image {
-        width: 100%;
-        max-width: 145vh;
-        align-self: center;
-    }
+    @media (min-width: 550px) { .partners { column-count: 4; } }
+    @media (min-width: 700px) { .partners { column-count: 5; } }
+    @media (min-width: 1000px) { .partners { column-count: 6; } }
+    @media (min-width: 1400px) { .partners { column-count: 7; } }
     </style>
 {% endblock %}
 
 {% block content %}
+    <div class="hero-image-container">
+        <img alt src="{{ SITEURL }}/images/parallax/Slovenski-godalni-sekstet-04902.jpg" class="hero-image image-process-homepage" itemprop="image" aria-hidden="true">
+    </div>
+
     <div class="row">
         <article class="excerpt">
             <h4>{{ T('O nas', lang)}}</h4>
@@ -112,7 +124,3 @@
         {% endfor %}
     </ul>
 {% endblock content %}
-
-{% block before_footer %}
-    <img alt src="{{ SITEURL }}/images/parallax/Slovenski-godalni-sekstet-04902.jpg" class="homepage-image image-process-homepage" itemprop="image" loading="lazy" aria-hidden="true">
-{% endblock before_footer %}
