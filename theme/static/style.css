@@ -116,6 +116,7 @@ body > header a[hreflang] {
 
 body > footer {
     height: var(--footer-height);
+    line-height: var(--footer-height);
     background: var(--footer-bgcolor);
     color: var(--header-color);
     text-align: right;
