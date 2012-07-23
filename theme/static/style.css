@@ -2,11 +2,11 @@
 
 :root {
     --header-color: #eee;
-    --header-color2: #fd8;
-    --header-bgcolor: #002d47;
+    --header-color2: #fb7;
+    --header-bgcolor: #001123;
     --header-bgcolor2: #001b2a;
 
-    --footer-bgcolor: #002d47;
+    --footer-bgcolor: #001123;
     --footer-height: 1.5em;
 
     --violin-icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTI5MSA0MjIgMTE5MSI+PGRlZnMvPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTMxNCA2MDdxMzAgMTA1IDMwIDE3MiAwIDUzLTM3IDg3dC05MCAzNHEtNTAgMC04Ny0yOXQtMzctNzJxMC0xNCA2LTI4dDE0LTI3IDIyLTIwIDI4LThxMjAgMCAzNiAxMXQyMyAyNiA4IDM0cTAgNjItNzAgNjIgMTggMjggNTggMjhsMjQtMnExMi0yIDI3LTEwdDI1LTE5IDE4LTMyIDctNDhxMC0yMS0yOC0xNTEtMjIgNi01NSA2LTk3IDAtMTY2LTcyVDAgMzc3cTAtMzUgMTItNzF0MjYtNjMgNDMtNjIgNDgtNTUgNTQtNTZsLTYtMjMtNS0yMi00LTIxLTMtMjEtMy0yMS0xLTIxLTEtMjFxMC05MCAzMy0xNTB0NjYtNjFxOCAwIDE4IDh0MjAgMjUgMTkgMzggMTQgNTMgNSA2NnEwIDE1OS0xMTMgMjYzbDI2IDExOGg0bDQtMWg0cTIgMSAzLTFoOGwzLTFoM3E2MSAwIDEwMyA1MHQ0MiAxMjBxLTEgMTE4LTEwOCAxNjB6bS04LTc0NHEwLTU1LTMyLTU1LTE4IDAtMzQgMTV0LTI4IDQwLTE3IDU1LTcgNjFxMCA0MiAxMyA3M2wxOS0xM3ExMC04IDE4LTE5dDE4LTIzIDE2LTI2IDE0LTI4IDExLTI3IDctMjcgMi0yNnptNzIgNjE4cTAtMjgtOC01MHQtMjQtMzgtMzctMjQtNDYtOWw0NSAyMjZxNzAtMjkgNzAtMTA1em0tOTEgMTExbC00Ni0yMzBxLTE4IDQtMzQgMTh0LTI3IDMzLTExIDM4cTAgMTEgNCAyMnQ4IDE5IDExIDE2IDEzIDEzIDExIDkgOSA2bDMgMi04IDVxLTMzLTktNjItNDB0LTMwLTc4cTAtMzIgMTUtNjJ0MzYtNDkgNDQtMjhsLTE4LTEwN1E0OCAzMTAgNDggNDMycTAgNzMgNTUgMTIydDEyNSA0OXExNyAwIDU5LTExeiIvPjwvc3ZnPg==');
@@ -94,7 +94,7 @@ body > header a[hreflang] {
         margin: 1em;
     }
     #menu ul a:hover {
-        color: orange !important;
+        color: #fd8 !important;
     }
     #menu ul .active a {
         color: var(--header-color2);

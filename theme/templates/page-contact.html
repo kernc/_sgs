@@ -32,7 +32,6 @@
     }
 
     form input,
-    form button,
     form textarea {
         display: block;
         width: 100%;
@@ -46,12 +45,19 @@
     form {
         width: 100%;
         max-width: 60ch;
+        text-align: center;
     }
     form button {
-        background: #def;
+        margin-top: 1em;
+        width: 20ch;
+        color: white;
+        background: var(--header-bgcolor);
+        filter: saturate(300%) brightness(110%);
+        cursor: pointer;
+        border-radius: 10px;
     }
     form button:hover {
-        border: 1px solid cornflowerblue;
+        filter: saturate(300%) brightness(180%);
     }
 
     label {
