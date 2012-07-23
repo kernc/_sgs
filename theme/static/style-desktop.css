@@ -1,21 +1,17 @@
 @charset "utf-8";
 
-#menu {
+#nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
-#menu .navbar {
-    grid-template-columns: initial;
+#nav a[rel="home"] {
+    font-size: 2em;
+    line-height: .8em;
 }
-#menu a[rel="home"] {
-    font-size: 1.7em;
-    line-height: 1em;
-}
-#menu .menu-button {
+#menu-toggle {
     display: none;
 }
-#menu ul {
+#nav ul {
     position: initial;
     grid-template-columns: initial;
     transform: initial;
@@ -28,7 +24,7 @@
     font-size: 110%;
 
 }
-#menu li {
+#nav li {
     display: inline-block;
 
     margin: .3em 1em;

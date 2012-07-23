@@ -1,11 +1,17 @@
 "use strict";
-if (location.hash == '#menu')
-    location.hash = '';
+(()=>{
+    const toggle = document.getElementById('menu-toggle');
+    toggle.checked = false;
 
-function toggleMenu(visible, ev) {
-    ev.preventDefault();
-    if (visible)
-        location.hash = 'menu';
-    else
-        history.back();
-}
+    toggle.addEventListener('keyup', ev => {
+        if (ev.code === 'Enter')
+            toggle.checked = !toggle.checked;
+        if (ev.code === 'Escape')
+            toggle.checked = false;
+    });
+
+    document.getElementById('menu').addEventListener('keyup', ev => {
+        if (ev.code === 'Escape')
+            toggle.checked = false;
+    });
+})();
