@@ -1,0 +1,13 @@
+{% macro translations_for(entry) %}
+    {% for lang in MENU_LANG|reject('equalto', entry.lang) %}
+        {% set translation = entry.translations|selectattr('lang', 'equalto', lang)|first %}
+        {% set href = translation.url if translation else lang %}
+        <li><a href="{{ SITEURL }}/{{ href }}" rel="alternate" hreflang="{{ lang }}">{{ MENU_LANG[lang] }}</a></li>
+    {% endfor %}
+{% endmacro %}
+
+{% macro link_hreflang(entry) %}
+    {% for translation in entry.translations %}
+        <link href="{{ SITEURL }}/{{ translation.url }}" rel="alternate" hreflang="{{ translation.lang }}">
+    {% endfor %}
+{% endmacro %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+
+{% block head %}
+    {{ super() }}
+    <meta name="author" content="{{ article.author }}">
+    <style>
+        main article img {
+            border: 6px double #888;
+            display: block;
+        }
+    </style>
+{% endblock %}
+
+
+{% block content %}
+    <h1>{{ article.title }}</h1>
+    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+    {{ article.content }}
+    <div class="signature"></div>
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends "page.html" %}
+
+
+{% block head %}
+    {{ super() }}
+    <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/luminous-lightbox/2.3.2/luminous-basic.min.css" integrity="sha256-tPW9wLkspLEhKo1rCAUlqiMvw30PPoyOatV5gL8a+/M=" crossorigin="anonymous">
+    <style>
+    .lum-lightbox { z-index: 100; }  /* Position lightbox over footer parallax image */
+
+    @media (min-width: 800px) {
+        .gallery {
+            column-count: 2;
+            column-fill: balance;
+            column-gap: .7em;
+        }
+    }
+    @media (min-width: 1200px) {
+        .gallery {
+            column-count: 3;
+            column-fill: balance;
+            column-gap: .7em;
+        }
+    }
+    .gallery img {
+        width: 100%;
+        border: 1px solid #aaa;
+        margin-bottom: .7em;
+    }
+    </style>
+
+    <script>
+    if (window.matchMedia('(min-width: 600px)').matches) {
+        var s = document.createElement('script');
+        s.src = 'https://cdnjs.cloudflare.com/ajax/libs/luminous-lightbox/2.3.2/luminous.min.js';
+        s.async = 1;
+        s.crossOrigin = 'anonymous';
+        s.integrity = 'sha256-JtowJgZIxtr4WObMQMDqCojFv0TMRb438K2bLmjYS8Q=';
+        s.addEventListener('load', () => new LuminousGallery(document.querySelectorAll('.gallery a'), {arrowNavigation: true}));
+        window.addEventListener('load', () => document.body.appendChild(s));
+    }
+    </script>
+{% endblock %}

@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#menu .navbar {
+    grid-template-columns: initial;
+}
+#menu a[rel="home"] {
+    font-size: 1.7em;
+    line-height: 1em;
+}
+#menu .menu-button {
+    display: none;
+}
+#menu ul {
+    position: initial;
+    grid-template-columns: initial;
+    transform: initial;
+    width: initial;
+    background: initial;
+
+    display: inline-block;
+    margin-left: 3em;
+
+    font-size: 110%;
+
+}
+#menu li {
+    display: inline-block;
+
+    margin: .3em 1em;
+}
+
+body > main > article {
+    margin: 3em;
+}

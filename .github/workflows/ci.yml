@@ -1,0 +1,83 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - dev
+  pull_request:
+    branches:
+      - dev
+  schedule:
+    - cron:  '37 13 9 * *'
+
+jobs:
+  build:
+    name: Build & Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.7'
+
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          ref: dev
+
+      - name: Checkout pelican-plugins
+        uses: actions/checkout@v2
+        with:
+          repository: getpelican/pelican-plugins
+          path: pelican-plugins
+      - run: |
+          pushd pelican-plugins
+          git submodule update --init -- deadlinks
+          popd
+
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: pip-
+
+      - name: Install locales
+        run: |
+          sudo apt-get install locales
+          sudo tee -a /etc/locale.gen <<EOF
+            sl_SI.UTF-8 UTF-8
+            en_IE.UTF-8 UTF-8
+          EOF
+          sudo locale-gen
+
+      - name: Install APT dependencies
+        run: |
+          sudo apt-get install libjpeg-progs optipng  # optimize_images
+
+      - name: Install pip dependencies
+        run: |
+          pip install -U pip setuptools
+          pip install -r requirements.txt
+
+      - name: Build
+        run: |
+          pelican -vD --fatal warnings
+
+      - name: Checkout gh-pages
+        if: ${{ github.event_name == 'push' }}
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Deploy
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "github-actions@github.com"
+          rm -rf gh-pages/*
+          cp -R output/* gh-pages
+          cd gh-pages
+          git add *
+          if git diff --staged --quiet; then echo "$0: No changes to commit."; exit 0; fi
+          git commit -a -m "CI: Update $GITHUB_SHA"
+          git push

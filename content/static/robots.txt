@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://godalni-sekstet.si/sitemap.txt

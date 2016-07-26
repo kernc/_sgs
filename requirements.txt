@@ -1,0 +1,12 @@
+pelican
+typogrify
+markdown
+
+# pelican-sitemap -- vendored
+# pelican_image_process -- vendored
+beautifulsoup4
+pillow
+
+css-html-js-minify
+py_w3c
+requests

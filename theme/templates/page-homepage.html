@@ -1,0 +1,120 @@
+{% extends "page.html" %}
+
+
+{% block title %}{{ T(SITENAME, lang) }}{% endblock %}
+
+
+{% block head %}
+    {{ super() }}
+
+    <meta itemprop="alternateName" content="Godalni sekstet">
+    <meta itemprop="alternateName" content="Slovenski godalni sekstet">
+    <meta itemprop="alternateName" content="String sextet">
+    <meta itemprop="alternateName" content="Slovenian string sextet">
+    <meta itemprop="alternateName" content="Slovene string sextet">
+    <meta itemprop="mainEntityOfPage" content="http://www.revijaglasna.si/akcent/vecer-seksteta-v-kropi/">
+    <meta itemprop="mainEntityOfPage" content="https://gml-drustvo.si/koncerti/koncert-v-spomin-prof-tomazu-lorenzu">
+    <meta itemprop="mainEntityOfPage" content="https://nauportus.wordpress.com/2019/09/06/koncert-godalnega-seksteta/">
+    <meta itemprop="isicv4" content="9000">
+    <meta itemprop="areaServed" content="Worldwide">
+    <meta itemprop="knowsLanguage" content="en">
+    <meta itemprop="knowsLanguage" content="sl">
+    <link itemprop="genre" href="http://dbpedia.org/page/Category:Chamber_music">
+    <link itemprop="knowsAbout" href="http://dbpedia.org/page/Category:Chamber_music">
+
+    <style>
+    .row {
+        grid-gap: 4em;
+        grid-auto-flow: column;
+    }
+    @media (min-width: 770px) {
+        .row {
+            display: grid;
+            padding: 3em 0;
+        }
+    }
+    @media (min-width: 1000px) { .row { padding: 3em; } }
+
+    h4,
+    h5 {
+        margin: 0;
+    }
+
+    .news {
+        background: #eef;
+        padding: 1em;
+    }
+        .news h5 {
+            display: inline-block;
+            font-size: 1em;
+            margin-top:.5em;
+        }
+        .news li:first-child h5 { margin-top: 0; }
+        .news h5:after { content: ',\a0' }
+        .news ol {
+            list-style-type: '♯  ';
+            padding-left: 2em;
+        }
+
+    .partners {
+        list-style-type: none;
+        padding: 0;
+        column-count: 2;
+        column-fill: balance;
+
+        filter: grayscale(0%);
+    }
+        .partners li {
+            margin: 2em;
+        }
+        .partners img {
+            max-width: 100%;
+        }
+
+    @media (min-width: 550px) { .partners { column-count: 3; } }
+    @media (min-width: 700px) { .partners { column-count: 4; } }
+    @media (min-width: 1000px) { .partners { column-count: 5; } }
+    @media (min-width: 1400px) { .partners { column-count: 6; } }
+    @media (min-width: 1600px) { .partners { column-count: 7; } }
+
+    .homepage-image {
+        width: 100%;
+        max-width: 145vh;
+        align-self: center;
+    }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <article class="excerpt">
+            <h4>{{ T('O nas', lang)}}</h4>
+            {{ page.content }}
+        </article>
+
+        <article class="news">
+            <h4>{{ T('Zadnje objave', lang) }}</h4>
+            <ol>
+            {% for article in TOP_ARTICLES(articles, lang)[:5] %}
+                <li><article>
+                    <h5><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
+                    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+                </article></li>
+            {% endfor %}
+            </ol>
+        </article>
+    </div>
+
+    <ul class="partners">
+        {% for alt, href in LOGO_LINKS %}
+        {% set image = '{}/images/logos/{}.png'.format(SITEURL, alt.lower().replace(' ', '-')) %}
+        <li><a href="{{ href }}" target="_blank" itemprop="sponsor"
+               rel="noopener noreferrer"
+               itemscope itemtype="http://schema.org/Organization"><img itemprop="logo" alt="{{ alt }}" src="{{ image }}" loading="lazy"></a></li>
+        {% endfor %}
+    </ul>
+{% endblock content %}
+
+{% block before_footer %}
+    <img alt src="{{ SITEURL }}/images/parallax/Slovenski-godalni-sekstet-04902.jpg" class="homepage-image image-process-homepage" itemprop="image" loading="lazy" aria-hidden="true">
+{% endblock before_footer %}

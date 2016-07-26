@@ -1,0 +1,28 @@
+{% extends "page.html" %}
+
+
+{% block head %}
+    {{ super() }}
+    <style>
+    article > ul {
+        list-style-type: none;
+        padding: 3em 1em;
+    }
+    article ul ul {
+        padding-left: 3.3em;
+    }
+    article > ul > li {
+        margin-bottom: 2em;
+    }
+    article > ul > li:before {
+        display: inline-block;
+        content: '';
+        vertical-align: middle;
+        width: 2em;
+        height: 3em;
+        background-repeat: no-repeat;
+        background-size: 1em 3em;
+        background-image: var(--violin-icon);
+    }
+    </style>
+{% endblock %}

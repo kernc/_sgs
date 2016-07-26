@@ -1,0 +1,100 @@
+{% extends "page.html" %}
+
+
+{% block head %}
+    {{ super() }}
+    <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/forms.min.css" integrity="sha256-y0UqD0EX1GKqVUeQToVnmQL025Htksw+uiIxzvXUKcM=" crossorigin>
+
+    <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css" integrity="sha256-CuUPKpitgFmSNQuPDL5cEfPOOJT/+bwUlhfumDJ9CI4=" crossorigin>
+    <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/solid.min.css" integrity="sha256-pIAzc/BIIo/hSvtNEDIiMTBtR9EfK3COmnH2pt8cPDY=" crossorigin>
+    <style>
+    address ul {
+        list-style-type: none;
+        padding-left: .5em;
+    }
+        @media (hover: none) {
+            address li {
+                margin-bottom: .5em;
+            }
+        }
+    address i {
+        display: inline-block;
+        width: 1.5ch;
+        text-align: right;
+        margin-right: .5em;
+        margin-top: .5em;
+    }
+    @media (min-width: 1100px) {
+        main {
+            background: url("{{ SITEURL }}/images/typewriter.jpg") no-repeat;
+            background-position: bottom right;
+        }
+    }
+
+    form input,
+    form button,
+    form textarea {
+        display: block;
+        width: 100%;
+        margin-top: 1em;
+        border: 1px solid silver;
+    }
+
+    form textarea {
+        height: 20ch;
+    }
+    form {
+        width: 100%;
+        max-width: 60ch;
+    }
+    form button {
+        background: #def;
+    }
+    form button:hover {
+        border: 1px solid cornflowerblue;
+    }
+
+    label {
+        position: relative;
+        display: block;
+    }
+    label span {
+        position: absolute;
+        top: -.9em;
+        right: 3px;
+        font-size: .8em;
+        color: #334;
+        background: white;
+        padding: 0 .4em;
+
+        height: 0;
+        overflow: hidden;
+    }
+    label:focus-within span,
+    label input:not(:placeholder-shown) + span,
+    label textarea:not(:placeholder-shown) + span {
+        height: initial;
+    }
+    label:not(:focus-within) input:valid + span:after,
+    label:not(:focus-within) textarea:valid + span:after {
+        content: ' ✓';
+        font-size: 1.2em;
+        color: green;
+    }
+    </style>
+
+    <script>
+        window.addEventListener('load', () => {
+            document.querySelector('#email-link').href += '@gmail.com';
+            var form = document.forms.contact;
+            form.action += '@gmail.com';
+            form.onsubmit = function (ev) {
+                var button = form.querySelector('button'),
+                    prev_label = button.innerHTML;
+                button.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
+                setTimeout(function() { button.innerHTML = prev_label; }, 5000);
+                return true;
+            }
+        });
+    </script>
+{% endblock %}

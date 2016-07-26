@@ -1,0 +1,81 @@
+<!doctype html>
+{% set content_obj = article or page %}
+{% set lang = content_obj.lang %}
+<html lang="{{ lang }}"
+      itemscope itemtype="http://schema.org/MusicGroup">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Pelican">
+    <title>{% block title %}{{ content_obj.title|striptags }} – {{ T(SITENAME, lang) }}{% endblock title %}</title>
+
+    <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
+    <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
+    <link rel="preload stylesheet" as="style" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/style.css">
+    <link rel="preload stylesheet" as="style" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/style-desktop.css" media="screen and (min-width: 830px)">
+    <script async src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/script.js"></script>
+
+    <link rel="canonical" href="{{ SITEURL }}/{{ content_obj.url }}">
+    <link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <link rel="icon" href="{{ SITEURL }}/logo.svg">
+    <link itemprop="logo" href="{{ SITEURL }}/logo.svg">
+
+
+    {% from 'translations.html' import link_hreflang, translations_for with context %}
+    {{ link_hreflang(content_obj) }}
+
+    <meta name="theme-color" content="#012">
+    <meta itemprop="name" content="{{ T(SITENAME, lang) }}">
+    <meta itemprop="url" content="{{ SITEURL }}">
+
+    {% block head %}{% endblock %}
+
+    {% if FEED_ALL_ATOM %}
+    <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}"
+          type="application/atom+xml" rel="alternate" title="{{ T(SITENAME, content_obj) }}">
+    {% endif %}
+
+    {% include '_analytics.html' %}
+</head>
+<body>
+    <header>
+        <nav id="menu">
+            <div class="navbar">
+                {% set home_url = SITEURL if lang == DEFAULT_LANG else SITEURL + '/' + lang %}
+                <a href="{{ home_url }}/" rel="home">{{ T('<span>Slovenski</span><br>godalni sekstet', lang) }}</a>
+                <a href="#menu" class="menu-button"
+                   aria-label="Menu" aria-controls="menu"
+                   onclick="toggleMenu(true, event)"></a>
+                <a class="menu-button" href="#menu-close" id="menu-close"
+                   aria-label="Close menu" aria-controls="menu"
+                   onclick="toggleMenu(false, event)"></a>
+            </div>
+            <ul>
+            {% for p in pages | rejectattr('hide_in_menu') %}
+                {% if lang != DEFAULT_LANG %}
+                    {% set p = p.translations | selectattr('lang', 'equalto', lang) | first %}
+                {% endif %}
+                <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+            {% endfor %}
+            {{ translations_for(content_obj) }}
+            </ul>
+        </nav>
+    </header>
+    <main><article>
+        {% block content %}{% endblock %}
+    </article></main>
+
+    {% block before_footer %}
+        {% if content_obj.parallax %}
+        <div class="parallax">
+            <div>
+                <img alt src="{{ SITEURL }}/images/parallax/{{ content_obj.parallax }}" class="image-process-parallax" loading="lazy" aria-hidden="true">
+            </div>
+        </div>
+        {% endif %}
+    {% endblock %}
+    <footer>
+        ©{{ CURRENT_YEAR }} <address>{{ T(AUTHOR, lang) }}</address>
+    </footer>
+</body>
+</html>
