@@ -24,3 +24,5 @@ fields:
     max: 255
   label: summary
   description: Short summary/description
+pages:
+- content/objave/forests-cms-test.md
