@@ -1,8 +1,19 @@
 ---
 label: News page
 hide_body: false
-display_field: title
+display_field: _forestry_filename
 fields:
+- name: _forestry_filename
+  type: text
+  config:
+    required: true
+    min: 13
+    max: 90
+  label: filename
+  description: 'Format: "YYYY-MM-DD-slug-skrajsan-ascii-naslov".<br><a href="https://en.wikipedia.org/wiki/Clean_URL#Slug"
+    title="" target="_blank">Slug</a> must match the slug on an English page to link
+    to it. Slugs of Slovene and English versions of a page/news must match.'
+  default: 2020-01-01-title-slug-changeme
 - name: title
   type: text
   config:
