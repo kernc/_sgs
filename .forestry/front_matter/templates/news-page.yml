@@ -1,4 +1,25 @@
 ---
 label: News page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    min: 3
+    max: 80
+  label: title
+  description: News post title
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+- name: summary
+  type: text
+  config:
+    required: false
+    min: 
+    max: 255
+  label: summary
+  description: Short summary/description
