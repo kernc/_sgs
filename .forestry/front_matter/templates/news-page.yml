@@ -36,4 +36,5 @@ fields:
   label: summary
   description: Short summary/description
 pages:
+- content/objave/forestry-cms-test.md
 - content/objave/forests-cms-test.md
