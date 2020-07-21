@@ -3,7 +3,29 @@ new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: content/objave/en
+  label: News/English
+  create: documents
+  match: "*.md"
+- type: directory
+  path: content/objave
+  label: News
+  create: documents
+  match: "*.md"
+  exclude: en/*.md
+- type: directory
+  path: content/pages/en
+  label: Pages/English
+  create: documents
+  match: "*.md"
+- type: directory
+  path: content/pages
+  label: Pages
+  create: documents
+  match: "*.md"
+  exclude: en/*.md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
