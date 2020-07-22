@@ -36,4 +36,5 @@ fields:
   label: summary
   description: Short summary/description
 pages:
+- content/objave/en/2020-12-10-foobar.md
 - content/objave/forestry-cms-test.md
