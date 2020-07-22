@@ -5,3 +5,6 @@ author: author
 summary: summary
 
 ---
+Testiramo [Forestry.io](https://forestry.io/) CMS in dela!
+
+![](/images/with-jitter.jpg)
