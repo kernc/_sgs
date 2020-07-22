@@ -17,7 +17,7 @@ fields:
 - name: title
   type: text
   config:
-    required: true
+    required: false
     min: 3
     max: 80
   label: title
