@@ -7,4 +7,4 @@ summary: summary
 ---
 Testiramo [Forestry.io](https://forestry.io/) CMS in dela!
 
-![](/images/with-jitter.jpg)
+![jitter](/images/with-jitter.jpg)
