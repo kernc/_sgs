@@ -3,9 +3,9 @@
 ## Development ######################################################
 
 RELATIVE_URLS = False
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = True
 
-CACHE_CONTENT = True
+CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = True
 GZIP_CACHE = False
 
