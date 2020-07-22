@@ -6,7 +6,7 @@ fields:
 - name: _forestry_filename
   type: text
   config:
-    required: true
+    required: false
     min: 13
     max: 90
   label: filename
