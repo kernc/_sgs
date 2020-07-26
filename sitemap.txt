@@ -8,7 +8,6 @@ https://kernc.github.io/_sgs/program/
 https://kernc.github.io/_sgs/galerija/
 https://kernc.github.io/_sgs/kontakt/
 https://kernc.github.io/_sgs/
-https://kernc.github.io/_sgs/en/2020/-/
 https://kernc.github.io/_sgs/2020/forestry-cms-test/
 https://kernc.github.io/_sgs/2020/nova-spletna-stran/
 https://kernc.github.io/_sgs/2020/koncerti-v-casu-epidemije-covid-19/
