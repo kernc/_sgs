@@ -242,6 +242,7 @@ LOGO_LINKS = [
     ('Revija Glasna', 'http://www.revijaglasna.si'),
     ('Festival Ljubljana', 'https://ljubljanafestival.si'),
     ('Mestni muzej Ljubljana', 'https://mgml.si/sl/mestni-muzej/'),
+    ('Radio televizija Slovenija', 'https://www.rtvslo.si/rtv/kdo-smo/glasbena-produkcija'),
     ('Hiša kulture Celje', 'http://www.hisakulture.si'),
     ('Univerza v Ljubljani, Akademija za glasbo', 'http://www.ag.uni-lj.si'),
     ('Republika Slovenija, Ministrstvo za kulturo', 'http://mk.gov.si'),
