@@ -13,6 +13,9 @@ parallax: Slovenski-godalni-sekstet-05430.jpg
 [![foto 04726][id04726]{:.image-process-gallery loading="lazy" itemprop="image"}][id04726]
 [![foto 04442][id04442]{:.image-process-gallery loading="lazy" itemprop="image"}][id04442]
 [![foto 05182][id05182]{:.image-process-gallery loading="lazy" itemprop="image"}][id05182]
+[![foto koncert 1][idk1]{:.image-process-gallery loading="lazy" itemprop="image"}][idk1]
+[![foto koncert 14][idk4]{:.image-process-gallery loading="lazy" itemprop="image"}][idk4]
+[![foto koncert 12][idk12]{:.image-process-gallery loading="lazy" itemprop="image"}][idk12]
 [![foto 05312][id05312]{:.image-process-gallery loading="lazy" itemprop="image"}][id05312]
 {:.gallery}
 
@@ -30,3 +33,6 @@ parallax: Slovenski-godalni-sekstet-05430.jpg
 [id04442]: {static}/images/gallery/04442.jpg
 [id05182]: {static}/images/gallery/05182.jpg
 [id05312]: {static}/images/gallery/05312.jpg
+[idk1]: {static}/images/gallery/godalni-sekstet-1.jpg
+[idk4]: {static}/images/gallery/godalni-sekstet-4.jpg
+[idk12]: {static}/images/gallery/godalni-sekstet-12.jpg
