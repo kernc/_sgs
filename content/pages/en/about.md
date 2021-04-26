@@ -12,54 +12,127 @@ We are:
 [TOC]
 
 
-## Ana Dolžan {: itemprop="member"}
+## **Ana Dolžan**, violin {: itemprop="member"}
 
-![Ana Dolžan]({static}/images/mugshot/Ana-Dolžan.jpg){:.image-process-mugshot .float-right}
-**(violin; concertmaster)**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor elementum iaculis. Maecenas varius venenatis sem, non congue turpis consectetur sit amet. Morbi luctus, mi in semper fermentum, magna dui sagittis leo, in lacinia velit sem sit amet sapien. Aenean placerat varius nisl vel porttitor. Donec ante elit, volutpat et auctor a, sodales id dolor. Pellentesque iaculis ex vitae vulputate finibus. Quisque sit amet leo a est molestie aliquam. Aliquam pulvinar diam quis lectus finibus luctus. In non ornare erat. Nam commodo nisl mauris, vitae egestas arcu pharetra in. Donec dolor tellus, ornare sit amet felis sit amet, fermentum blandit lorem. Morbi id vulputate erat, vitae dignissim eros.
+![Ana Dolžan]({static}/images/mugshot/Ana-Dolžan.jpg){:.image-process-mugshot .float-right .style="border-radius: 35% 65% 47% 53% / 34% 39% 61% 66%"}
+**Violinist Ana Dolžan** is current concertmaster of Slovenian Philharmonic Orchestra and Slovenian Philharmonic Chamber String Orchestra.
+She received her master's degree with honors in the class of prof. Primož Novšak at Academy of Music of the University of Ljubljana.
+After completing her studies in Slovenia, she continued her specialized master's degree in music art as a soloist in the class of renowned professor Andreas Janke at the University of the Arts in Zurich.
+During this time, she also received additional training from Janez Podlesk, Benjamin Ziervogl, Volodja Balžalorski, Tomaž Lorenz, Lucinda Carver, Emil Cantor, Wonja Kim Ozim, Igor Ozim, Trio di Parma and others.
+She has participated in numerous international and national competitions in Slovenia, Italy, Serbia, Austria, Croatia and Czech Republic, where she has achieved enviable results.
 
-Mauris vel quam fermentum, efficitur mi vel, volutpat est. Etiam vitae quam placerat, tristique libero eget, eleifend neque. Cras dignissim nulla sed turpis sollicitudin tempus. Donec maximus accumsan orci, at sollicitudin nulla finibus in. Aliquam quis lobortis mauris. Curabitur fringilla iaculis nunc, non dapibus purus sagittis nec. Sed tellus ipsum, aliquet nec nisi eget, hendrerit scelerisque nulla. Aenean imperdiet vulputate tellus, eget rutrum enim interdum ut. Mauris faucibus neque lacus, ut tempor mi feugiat in. [foo](foo)
+In March 2016, she was selected as one of the 34 finalists in joint project of the AS Foundation, RTV Slovenia Symphony Orchestra and Cankarjev dom "We stand behind them" and played as the concertmaster of RTV Slovenia Symphony Orchestra at the final concert.
+In year 2010/2011, she was the concertmaster of Symphony Orchestra of Ljubljana Music and Ballet Conservatory, between 2005 and 2011 the concertmaster of the Arseia String Orchestra, which boasts many concerts at home and abroad, and since 2020 also the concertmaster of Symphony Orchestra of the Academy of Music in Ljubljana.
+For four years, she played the first violin in Arseia String Quartet, which had several successful concerts in Slovenia as well as elsewhere (GMS, Bled Festival, Chamber subscription of the Academy of Music, full-length concert at Tirana Opera House ...), worked in piano trio Ad Hoc (Festival Slowind 2017, ESTA International Conference, GM stage, etc.).
+She was a member of the famous European Youth Orchestra Gustav Mahler, with whom she toured in several prestigious halls around Europe (Concertgebouw Amsterdam, Konzerthaus Berlin, Dresden Opera House), Royal Albert Hall in London ...), where she held the position of leader of the second violin section.
+Her concerts have been recorded many times, and she can also boast that she recorded the virtuoso song Paganini–Kreisler: _La Campanella_ for their new CD with the "Obalni" Chamber Orchestra.
+
+She has performed as a soloist with Arseia String Orchestra, Ljubljana Mandolin Orchestra, “Obalni” Chamber Orchestra, Chamber String Orchestra of the Academy of Music, Slovenian Philharmonic Orchestra and SNG Maribor Symphony Orchestra in Slovenia, Serbia, Italy, Croatia, and Ireland.
+In 2018, she performed with Slovenian Philharmonic Orchestra, where she performed Brahms' Double Concerto for Violin and Cello in a duo with cellist Izak Hudnik.
+For her achievements in the field of music, she also received an award from Municipality of Škofja Loka and Prešeren Award from Academy of Music in Ljubljana.
 
 
-## Vid Sajovic {: itemprop="member"}
+## **Vid Sajovic**, violin {: itemprop="member"}
 
 ![Vid Sajovic]({static}/images/mugshot/Vid-Sajovic.jpg){:.image-process-mugshot .float-left}
-**(violin)**
-Nam feugiat libero vitae nulla consectetur, et vehicula nibh ornare. Integer nisl tortor, ornare ac neque vel, lobortis auctor magna. Cras lacinia sem nec molestie iaculis. Fusce cursus orci ante. Aenean ornare, orci vitae condimentum laoreet, nunc justo vulputate turpis, sit amet sodales est turpis vitae sapien. Nam dictum nulla vitae ligula placerat faucibus. Suspendisse mattis purus vitae libero dapibus consectetur. Sed nec iaculis lectus. Vivamus vel tincidunt orci. Mauris ullamcorper ipsum arcu, eget ultrices enim rutrum vel. Praesent faucibus semper ante.
+**Violinist Vid Sajovic** is a professor of violin and chamber music at Conservatory of Music and Ballet in Ljubljana.
+He graduated at Academy of Music of University of Ljubljana in the class of prof. Vasily Melnikov.
+He then perfected his knowledge at the postgraduate level at Codarts University for the Arts in Rotterdam, where he received his master's degree in June 2017 in the class of prof. Andrasa Czifra.
+During his studies, he achieved top success in many prestigious national and international competitions: 2nd prize at the international competition Ars Nova in Trieste, 1st prize at the international competition Societa Jupiter Cogoleto in Genoa, 1st prize at the 8th international competition Petar Krančević in Sremska Mitrovica.
+He has performed as a soloist with Arseia String Orchestra from Škofja Loka and Chamber Orchestra of the Academy of Music.
+Throughout his years of study, he received additional training and advanced training in seminars and master classes with professors: Ilya Grubert, Petru Munteanu, Dragan Radosavlievich, Asja Kušner, Benzion Shamir, Andras Czifra, Mišo Furman, Goran Gribajčević and Gordan Nikolić.
 
-Praesent sit amet sollicitudin mauris. Mauris scelerisque laoreet diam at sollicitudin. Ut imperdiet felis id est accumsan ullamcorper. Donec urna tortor, maximus eget nulla a, vulputate convallis justo. Sed sed augue ullamcorper ligula hendrerit pulvinar. Nunc laoreet tincidunt neque ac tincidunt. Maecenas leo augue, molestie a felis tristique, elementum sodales elit. Fusce et urna vel leo sagittis blandit. Integer tempus eros eu leo convallis, quis ornare lorem tristique. Suspendisse vel consequat mauris, ut scelerisque augue.
+He was the first violinist of the string quartet DeGouges, with which they actively performed on Dutch music stages from 2015 to 2018 (Amsterdam, Rotterdam, den Haag, Gauda, ​​Breda, Middelburg).
+During his studies at the Academy of Music he was a member of the string quartet Arseia, which had several successful concerts in Slovenia as well as elsewhere (GMS, Festival Bled, Chamber subscription of the Academy of Music, a concert at Opera house in Tirana ...) and worked under the mentorship of prof. Tomaž Lorenz.
+He was also a leader of second violins of Arsei String Orchestra from Škofja Loka under the direction of professor and conductor Armin Sešek, with whom he performed at Bled Festival, Kristalni abonma in Škofja Loka, Imago Slovenije, concerts of the Musical Youth of Slovenia, Stična Festival, Festival Škofja Loka, City Museum of Ljubljana, etc.
+They were common guests also elsewhere: Sremska Mitrovica/Belgrade (Serbia), Zagreb/​​Grožnjan (Croatia), Gorizia/Garda/Trieste (Italy), Maasmecheln/Brussels/Neerpelt (Belgium), Carlow (Ireland), Mittenwald/Freising/Berlin (Germany), etc.
+
+As mentioned, a large part of his musical activity is also pedagogical work.
+Since 2019, he has been employed as a professor of violin and chamber music at Ljubljana Conservatory of Music and Ballet.
+He also collaborates with Edgar Willems Music Center and Ljubljana Vič – Rudnik Music School.
+Under his mentorship, students perform solo recitals and achieve high rankings in international competitions.
 
 
-## Nejc Mikolič {: itemprop="member"}
+## **Nejc Mikolič**, viola {: itemprop="member"}
 
 ![Nejc Mikolič]({static}/images/mugshot/Nejc-Mikolič.jpg){:.image-process-mugshot .float-right}
-**(viola)**
-Integer vel ultrices enim. Maecenas odio magna, tempus vel semper vel, efficitur sit amet ante. Suspendisse potenti. Aenean nec odio posuere, malesuada massa et, dignissim turpis. Aliquam tempor metus nec orci pharetra bibendum. Vestibulum metus nibh, placerat a imperdiet a, volutpat eu dui. Fusce consequat orci ut sapien consequat placerat. Phasellus at tortor pharetra, euismod enim a, sodales arcu. Mauris et sem eu mauris gravida gravida. Praesent lacus nibh, maximus dignissim varius sed, dictum eu odio. Integer eu magna in sem pellentesque dignissim. Pellentesque interdum arcu dolor, sit amet placerat eros rhoncus sit amet. Integer ante nisi, vestibulum sed sodales a, posuere eu ligula. Donec tellus magna, imperdiet sed enim et, pulvinar rhoncus nisi. Sed viverra congue augue eu suscipit. Ut egestas erat vel enim volutpat, in convallis risus consectetur.
+**Violist Nejc Mikolič** has been employed as a soloist at Carinthian Symphony Orchestra in Klagenfurt since March 2017.
+In 2013 he graduated with honors from viola in the class of prof. Mile Kosi at Ljubljana Academy of Music.
+During his studies, he received two Prešeren student awards, the first for his performance of Bohuslav Martinu's _Viola Concerto in C major_, with Slovenian Philharmonic Orchestra, and the second for his concert achievements with A la Corda string quartet.
+In 2012, he passed the entrance exam to the University of Music and Fine Arts in Vienna, where he continued his studies with prof. H.P. Ochsenhofer.
+During his studies, he also studied regularly with internationally renowned professors such as Wolfram Christ, Ana Chumachenco, Menahem Pressler, Wen-Sinn Yang, Robert Nagy, Elmar Landerer and others.
+He has performed as a soloist with Arseia String Orchestra from Škofja Loka, Coastal Chamber Orchestra, Symphony Orchestra of the Academy of Music in Ljubljana and Slovenian Philharmonic Symphony Orchestra.
+He twice attended a seminar in Trenta with the Vienna Philharmonic and, as a soloist and a member of the quartet, performed at the closing concert in the Brahms Hall of the famous Musikverein in Vienna.
+Participation in the seminar also brought him an invitation to audition for the position of soloist at the Vienna State Opera, where he was one of the five finalists.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor elementum iaculis. Maecenas varius venenatis sem, non congue turpis consectetur sit amet. Morbi luctus, mi in semper fermentum, magna dui sagittis leo, in lacinia velit sem sit amet sapien. Aenean placerat varius nisl vel porttitor. Donec ante elit, volutpat et auctor a, sodales id dolor. Pellentesque iaculis ex vitae vulputate finibus. Quisque sit amet leo a est molestie aliquam. Aliquam pulvinar diam quis lectus finibus luctus. In non ornare erat. Nam commodo nisl mauris, vitae egestas arcu pharetra in. Donec dolor tellus, ornare sit amet felis sit amet, fermentum blandit lorem. Morbi id vulputate erat, vitae dignissim eros.
+Nejc complements his rich concert activity with regular orchestral practice: in 2011 he became a member of renowned Gustav Mahler Jugend Youth Orchestra, EUphony Orchestra, Young Euro Classic Orchestra, and a longtime member of Slovenian Philharmonic Orchestra.
+As a soloist, he participated for two years at Orchestra Academy in Ossiach, international orchestra Pur-Pur (concert at the opening of Ljubljana Festival, 2013), Chamber Orchestra from Vienna; in the season 2013/2014 he was a soloist of RTV Slovenia Symphony Orchestra. He also regularly collaborates with Slovenian National Opera and Ballet Theatre of Ljubljana.
+
+Much of his musical practice is dedicated to chamber music: in addition to occasional ensembles, he was a regular member of string quartet A la Corda, a member of string sextet Offstring, a member of Duo Fabula Nuova, a member of Slovenian Philharmonic String Quartet, string ensemble Quartet and currently a regular member of Ensemble Minui from Klagenfurt, with whom they recorded their first CD in June 2019.
+He has collaborated on various projects with Bernarda Fink, Irma Mihelič, Eva Nina Kozmus, Primož Novšak, Lana Trotovšek, Miho Haas, Andrej Žust, Iztok Hrastnik, Blaž Šparovec, Aljaž Beguš, Petra Kovačič, Tatjana Ognjanovič and many others.
+
+In addition to the extremely fruitful concert activity, he complements his work with regular pedagogical practice, as a full visiting professor at the summer school in Grožnjan in Croatia and a mentor of the summer school of Amadeo Festival.
+In January 2020, after successfully completing his habilitation, the senate of the Academy of Music in Ljubljana elected him assistant professor.
 
 
-## Anuša Plesničar {: itemprop="member"}
+## **Anuša Plesničar**, viola {: itemprop="member"}
 
 ![Anuša Plesničar]({static}/images/mugshot/Anuša-Plesničar.jpg){:.image-process-mugshot .float-left}
-**(viola; MA)**
-Mauris vel quam fermentum, efficitur mi vel, volutpat est. Etiam vitae quam placerat, tristique libero eget, eleifend neque. Cras dignissim nulla sed turpis sollicitudin tempus. Donec maximus accumsan orci, at sollicitudin nulla finibus in. Aliquam quis lobortis mauris. Curabitur fringilla iaculis nunc, non dapibus purus sagittis nec. Sed tellus ipsum, aliquet nec nisi eget, hendrerit scelerisque nulla. Aenean imperdiet vulputate tellus, eget rutrum enim interdum ut. Mauris faucibus neque lacus, ut tempor mi feugiat in.
+**Violist and musicologist Anuša Plesničar**, after successfully graduating from Bežigrad Gymnasium, first enrolled in the study of musicology at the Faculty of Arts in Ljubljana.
+In October 2011 she also started her studies of viola at the Academy of Music in Ljubljana, where she was a student in the class of prof. Mile Kosi and assistants prof. Maja Rome.
+As part of Erasmus exchange program, she studied at Musik und Kunst Privatuniversitat der Stadt (MUK) in Vienna, in the class of prof. Herbert Muller.
+In January 2016, she enrolled in the study program "Master Soloist" with a chosen field: chamber music, at College of Music in Detmold (Germany), where in July 2018 she successfully completed her master's degree in the class of prof. Veita Hertenstein.
+In September 2016, she successfully completed her studies in musicology at the Department of Musicology in Ljubljana with her thesis "Reception of musical art and thought by Richard Wagner in Slovenian cultural space" for which she was nominated for Prešeren award at the Faculty of Arts in Ljubljana and is since 2019 continuing with her PhD studies at the Department of Musicology of the Faculty of Arts in Ljubljana, where her research field covers opera issues in the Slovenian cultural space.
 
-Nam feugiat libero vitae nulla consectetur, et vehicula nibh ornare. Integer nisl tortor, ornare ac neque vel, lobortis auctor magna. Cras lacinia sem nec molestie iaculis. Fusce cursus orci ante. Aenean ornare, orci vitae condimentum laoreet, nunc justo vulputate turpis, sit amet sodales est turpis vitae sapien. Nam dictum nulla vitae ligula placerat faucibus. Suspendisse mattis purus vitae libero dapibus consectetur. Sed nec iaculis lectus. Vivamus vel tincidunt orci. Mauris ullamcorper ipsum arcu, eget ultrices enim rutrum vel. Praesent faucibus semper ante.
+As a soloist, she performed with Symphony Orchestra of the Philosophical Philharmonic P. Hindemith's _Mourning Music for Viola and Orchestra_. She was a scholarship holder of City of Ljubljana, a scholarship holder of summer string academy "SAAR 2017" in Saarbrucken, a scholarship holder of Poland chamber music festival "Festival ensemble" 2018.
+She collaborated with the symphony orchestra of House of Culture in Celje, Branimir Slokar Academy orchestra, Young Ljubljana Soloists, the international "EUphony Youth Orchestra", Symphony Orchestra SFK from Klagenfurt, Detmold Chamber Orchestra DKO, Vienna Chamber Orchestra, ensemble for contemporary music "Ear-quake" from Detmold, etc.
+From October 2018 to April 2019, she was a permanent part-time collaborator of Slovenian National Opera and Ballet Theatre of Ljubljana.
+She also regularly collaborates with Slovenian Philharmonic Orchestra, RTV Slovenia Symphony Orchestra, Slovenian Chamber Music Theater, Ljubljana Soloists, Alumni Symphony Orchestra and Amadeo Chamber Orchestra.
+Since 2017, she has also been a permanent member of the international festival orchestra of ONO Biennial of Contemporary Music "Ostrava days" and the festival of new operas "NODO" in Czech Republic.
+She also collaborated as a moderator with House of Culture in Celje and with Slovenian Philharmonics.
+
+Since 2011, she has been a journalist to the music magazine Glasna (Musical Youth Slovenia), since 2016, an editor of Kristalni abonma of Sokolski dom in Škofja Loka, and since 2018 also for a chamber music festival Carpe artem in Maribor.
+With conductor and pianist Tilen Draksler, she is the co-founder of Amadeo Chamber Orchestra and also the creative director of Amadeo Festival ("From Škofja Loka to Sorica"), which includes a summer school for musicians and art workshops since 2019.
+Last but not least, she is the founder of the chamber music project
+[_Slovenian string sextet_](https://godalni-sekstet.si).
 
 
-## Izak Hudnik {: itemprop="member"}
+## **Izak Hudnik**, cello {: itemprop="member"}
 
 ![Izak Hudnik]({static}/images/mugshot/Izak-Hudnik.jpg){:.image-process-mugshot .float-right}
-**(cello)**
-Integer vel ultrices enim. Maecenas odio magna, tempus vel semper vel, efficitur sit amet ante. Suspendisse potenti. Aenean nec odio posuere, malesuada massa et, dignissim turpis. Aliquam tempor metus nec orci pharetra bibendum. Vestibulum metus nibh, placerat a imperdiet a, volutpat eu dui. Fusce consequat orci ut sapien consequat placerat. Phasellus at tortor pharetra, euismod enim a, sodales arcu. Mauris et sem eu mauris gravida gravida. Praesent lacus nibh, maximus dignissim varius sed, dictum eu odio. Integer eu magna in sem pellentesque dignissim. Pellentesque interdum arcu dolor, sit amet placerat eros rhoncus sit amet. Integer ante nisi, vestibulum sed sodales a, posuere eu ligula. Donec tellus magna, imperdiet sed enim et, pulvinar rhoncus nisi. Sed viverra congue augue eu suscipit. Ut egestas erat vel enim volutpat, in convallis risus consectetur.
+After successfully graduating from Bežigrad Gymnasium, **cellist Izak Hudnik** first studied with Professor Miloš Mlejnik in Ljubljana and Professor Reinhard Latzko in Vienna.
+After completing his master's studies at Salzburg Mozarteum with professor Giovanni Gnocchi, he continued his musical education at Zurich University of the Arts in the class of Thomas Grossenbacher.
+He studied at seminars with D. Grigorjan, S. Isserlis, J. Arp, D. Đorđević, M. Ostertag, R. Nagy, T. Thedéen, P. Muller, C. Polter, T. Svane, J.P. Maintz, M. Brunella and H. Schiff.
+He attended the Vienna Philharmonic Seminar in Trenta and performed with the string quartet at Musikverein.
+With his first prizes at national (2009, 2015, 2018) and international competitions in Poreč (A. Janigro), Liezen, Trieste, Gorizia and Ljubljana (Svirél), he earned a number of performances at home and abroad (Liezen, Poreč, Svirel, Trieste, Gorica).
+
+He has performed as a soloist with Slovenian Army Orchestra, Slovenian Philharmonic Chamber String Orchestra, RTV Slovenia Symphony Orchestra, Academy of Music in Ljubljana, Amadeo Chamber Orchestra, Zagreb Soloists, Württemberg Reutlingen Philharmonic orchestra and many others.
+
+He is a member of Ljubljana Soloists and the piano trio Ad Hoc.
+As an avid chamber musician, he has participated in international festivals such as Accademia dei Cameristi Bari, Slowind, Imago Sloveniae, Trame Sonore Mantova, Musethica (Berlin), Ostrava New Music Days, and Bled and Ljubljana Festivals.
+Accompanied by Zagreb Soloists, he performed at the opening concert of Antonio Janigro International Cello Competition in February 2020, and in October 2020 played Brahms Piano Quintet with the famous Maxim Vengerov at Mozarteum University.
+
+He is inspired by philosophy, especially his phenomenological interpretation of science and, of course, music.
+Recently, he has come closer to research, mainly through contemplative experiences in Gregorian chant and—in collaboration with his brother Tobias—contemporary improvised music.
+He is the recipient of Prešeren Award of the Academy of Music and a former scholarship holder of City Municipality of Ljubljana.
 
 
-## Katarina Kozjek {: itemprop="member"}
+## **Katarina Kozjek**, cello {: itemprop="member"}
 
 ![Katarina Kozjek]({static}/images/mugshot/Katarina-Kozjek.jpg){:.image-process-mugshot .float-left}
-**(cello)**
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+**Cellist Katarina Kozjek** enrolled at the Academy of Music in Ljubljana, initially in the class of prof. Igor Škerjanc, but later in February 2019 she received her master's degree in the class of prof. Miloš Mlejnik.
+As a soloist and chamber musician, she has received several awards at renowned national and international competitions, such as Alfredo and Vanda Marcosig competition in Gorizia, Antonio Salieri competition in Legnag, Ars Nova competition in Trieste, and Davorin Jenko competition in Belgrade and national competition of young Slovenian musicians "TEMSIG".
+She studied with well-known pedagogues Damir Hamidullin, Karmen Pečar Koritnik, David Gregorijan, Julian Arp, Aleksandar Latcković, Konstantin Pfiz, Jörg Widmann, Valery Sokolov, Wen-Sinn Yang, Werner Bärtschi and Goran Bakrač.
+
+As a soloist or performer she regularly participates in concerts, performances, and recitals organized by Musical Youth Ljubljana, Musical Youth Slovenia, Bled Festival, Ljubljana Summer Festival, "EPTA", Association of Slovenian Composers, Imago Sloveniae, Slovenian People's Theater Celje, Slovenian Chamber Music Theater, chamber ensemble Ljubljana Soloists, and other occasional projects.
+
+She acquires further orchestral skills by playing in many orchestral occasional or professional ensembles. Among them are Wonderful Youth Orchestra, Branimir Slokar Academy, Euro Symphony SFK, Domžale – Kamnik Symphony Orchestra, Amadeo Chamber Orchestra, and as a substitute she often plays in Slovenian Philharmonic Orchestra and RTV Orchestra.
+
+In April 2013, she performed as a soloist _Cello and Orchestra Concerto No. 1_ by C. Saint-Saëns, with Domžale – Kamnik Symphony Orchestra, conducted by Simon Krečič, and a year later _Kol Nidrei_, composed by Max Bruch, under the baton of Slaven Kulenović.
+In April 2016, she performed the song _Veronika's Fate_ by composer Tomaž Habe at Franc Bernik Cultural Center.
+She is a member of Duo Antares, which she founded together with cellist Tadeja Žele, and regularly performs as a member of Emona String Quartet, with which they received the 1st prize and a special prize for the best performance of a Slovenian composer's composition in March 2020.
+In addition to domestic stages, she also performed elsewhere in Europe and Asia in many diverse ensembles.
+She teaches at Waldorf Music School in Ljubljana and Kranj Music School.
 
 
 <div class="signature"></div>

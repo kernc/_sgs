@@ -12,54 +12,135 @@ Bend sestavljamo:
 [TOC]
 
 
-## Ana Dolžan {: itemprop="member"}
+## **Ana Dolžan**, violina {: itemprop="member"}
 
 ![Ana Dolžan]({static}/images/mugshot/Ana-Dolžan.jpg){:.image-process-mugshot .float-right}
-**(violina; koncertna mojstrica)**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor elementum iaculis. Maecenas varius venenatis sem, non congue turpis consectetur sit amet. Morbi luctus, mi in semper fermentum, magna dui sagittis leo, in lacinia velit sem sit amet sapien. Aenean placerat varius nisl vel porttitor. Donec ante elit, volutpat et auctor a, sodales id dolor. Pellentesque iaculis ex vitae vulputate finibus. Quisque sit amet leo a est molestie aliquam. Aliquam pulvinar diam quis lectus finibus luctus. In non ornare erat. Nam commodo nisl mauris, vitae egestas arcu pharetra in. Donec dolor tellus, ornare sit amet felis sit amet, fermentum blandit lorem. Morbi id vulputate erat, vitae dignissim eros.
+**Violinistka Ana Dolžan** je koncertna mojstrica Orkestra Slovenske filharmonije in Komornega godalnega orkestra Slovenske filharmonije.
+Magistrirala je z odliko v razredu prof. Primoža Novšaka na Akademiji za glasbo v Ljubljani.
+Po zaključku študija v Sloveniji je nadaljevala s specializiranim magistrskim študijem, glasbena umetnost-solist, v razredu priznanega profesorja Andreasa Jankeja na Visoki šoli za umetnost v Zürichu.
+V tem času se je dodatno izobraževala tudi pri Janezu Podlesku, Benjaminu Ziervoglu, Volodji Balžalorskem, Tomažu Lorenzu, Lucindi Carver, Emilu Cantorju, Wonji Kim Ozim, Igorju Ozimu, Triu di Parma in drugih.
+Udeležila se je številnih mednarodnih in državnih tekmovanj v Sloveniji, Italiji, Srbiji, Avstriji, Hrvaški in na Češkem, kjer je dosegla zavidljive rezultate.
 
-Mauris vel quam fermentum, efficitur mi vel, volutpat est. Etiam vitae quam placerat, tristique libero eget, eleifend neque. Cras dignissim nulla sed turpis sollicitudin tempus. Donec maximus accumsan orci, at sollicitudin nulla finibus in. Aliquam quis lobortis mauris. Curabitur fringilla iaculis nunc, non dapibus purus sagittis nec. Sed tellus ipsum, aliquet nec nisi eget, hendrerit scelerisque nulla. Aenean imperdiet vulputate tellus, eget rutrum enim interdum ut. Mauris faucibus neque lacus, ut tempor mi feugiat in. [foo](foo)
+Marca 2016 je bila na avdiciji v okviru skupnega projekta AS Fundacije, Simfoničnega orkestra RTV Slovenija in Cankarjevega doma "Za njimi stojimo", med 34 glasbeniki izbrana kot ena izmed finalistov in tako na zaključnem koncertu igrala kot koncertna mojstrica Simfoničnega orkestra RTV Slovenija.
+V šolskem letu 2010/2011 je bila koncertna mojstrica Simfoničnega orkestra Konservatorija za glasbo in balet Ljubljana, med leti 2005 in 2011 koncertna mojstrica Godalnega orkestra Arseia, ki se lahko pohvali z mnogimi koncerti doma in v tujini, od 2020 pa tudi koncertna mojstrica Simfoničnega in Komornega orkestra Akademije za glasbo v Ljubljani.
+Štiri leta je igrala prvo violino v Godalnem kvartetu Arseia, ki je imel več uspešnih koncertov v Sloveniji kot tudi drugje (GMS, Festival Bled, Komorni abonma Akademije za glasbo, celovečerni koncert v Operni hiši v Tirani ...), delovala v Klavirskem triu Ad Hoc (Festival Slowind 2017, Mednarodna konferenca ESTA, GM oder itd.).
+Bila je članica znamenitega evropskega Mladinskega orkestra Gustav Mahler, s katerim je na turnejah nastopala v več prestižnih dvoranah po Evropi (Concertgebouw Amsterdam, Konzerthaus Berlin, Operna hiša v Dresdnu, Royal Albert Hall v Londonu ...), kjer je zasedala mesto vodje drugih violin.
+Kot perspektivna mlada glasbenica je bila dvakrat predstavljena v oddajah Radia ARS "Mladi virtuozi" in "Nove glasbene generacije" in v oddaji RTV Slovenija "Pogled v zakulisje" kot del projekta "Za njimi stojimo".
+Njeni koncerti so večkrat snemani, pohvali pa se lahko tudi, da je z Obalnim komornim orkestrom posnela virtuozno skladbo Paganini–Kreisler: _La Campanella_ za njihovo novo zgoščenko.
+
+Kot solistka je nastopila z Godalnim orkestrom Arseia, Orkestrom Mandolina Ljubljana, Obalnim komornim orkestrom, Komornim godalnim orkestrom Akademije za glasbo, Orkestrom Slovenske filharmonije in Simfoničnim orkestrom SNG Maribor v Sloveniji, Srbiji, Italiji, Hrvaški in na Irskem.
+V letu 2018 je nastopila z Orkestrom Slovenske filharmonije, kjer je v duu z violončelistom Izakom Hudnikom izvedla Brahmsov Dvojni koncert za violino in violončelo.
+Za svoje dosežke na glasbenem področju je prejela tudi priznanje Občine Škofja Loka in Prešernovo nagrado Akademije za glasbo Ljubljana.
 
 
-## Vid Sajovic {: itemprop="member"}
+## **Vid Sajovic**, violina {: itemprop="member"}
 
 ![Vid Sajovic]({static}/images/mugshot/Vid-Sajovic.jpg){:.image-process-mugshot .float-left}
-**(violina)**
-Nam feugiat libero vitae nulla consectetur, et vehicula nibh ornare. Integer nisl tortor, ornare ac neque vel, lobortis auctor magna. Cras lacinia sem nec molestie iaculis. Fusce cursus orci ante. Aenean ornare, orci vitae condimentum laoreet, nunc justo vulputate turpis, sit amet sodales est turpis vitae sapien. Nam dictum nulla vitae ligula placerat faucibus. Suspendisse mattis purus vitae libero dapibus consectetur. Sed nec iaculis lectus. Vivamus vel tincidunt orci. Mauris ullamcorper ipsum arcu, eget ultrices enim rutrum vel. Praesent faucibus semper ante.
+**Violinist Vid Sajovic** je profesor violine in komorne igre na Konservatoriju za glasbo in balet v Ljubljani.
+Diplomiral je na Akademiji za glasbo v Ljubljani v razredu prof. Vasilija Meljnikova.
+Svoje znanje je nato izpopolnjeval na podiplomskem študiju na Codarts University for the Arts v Rotterdamu, kjer je z odliko magistriral junija 2017 v razredu prof. Andrasa Czifre.
+Tekom študija je na številnih uglednih državnih in mednarodnih tekmovanjih dosegal vrhunske uspehe: 2. Nagrado na mednarodnem tekmovanju Ars Nova v Trstu, 1. nagrado na mednarodnem tekmovanju Societa Jupiter Cogoleto v Genovi, 1. nagrado na 8. mednarodnem tekmovanju Petar Krančević v Sremski Mitrovici.
+Solistično se je večkrat predstavil z Godalnim orkestrom Arseia iz Škofje Loke ter Komornim orkestrom Akademije za glasbo.
+Vsa leta svojega študija se je tudi dodatno izobraževal in izpopolnjeval na seminarjih in mojstrskih tečajih pri profesorjih: Ilyi Grubertu, Petruju Munteanuju, Draganu Radosavlievichu, Asji Kušner, Benzionu Shamirju, Andrasu Czifri, Mishi Furmanu, Goranu Gribajčeviću in Gordanu Nikoliću.
 
-Praesent sit amet sollicitudin mauris. Mauris scelerisque laoreet diam at sollicitudin. Ut imperdiet felis id est accumsan ullamcorper. Donec urna tortor, maximus eget nulla a, vulputate convallis justo. Sed sed augue ullamcorper ligula hendrerit pulvinar. Nunc laoreet tincidunt neque ac tincidunt. Maecenas leo augue, molestie a felis tristique, elementum sodales elit. Fusce et urna vel leo sagittis blandit. Integer tempus eros eu leo convallis, quis ornare lorem tristique. Suspendisse vel consequat mauris, ut scelerisque augue.
+Bil je prvi violinist godalnega kvarteta DeGouges, s katerim so med leti 2015–2018 aktivno koncertirali po nizozemskih glasbenih odrih (Amsterdam, Rotterdam, den Haag, Gauda, Breda, Middelburg).
+V času študija na Akademiji za glasbo je bil član godalnega kvarteta Arseia, ki je imel več uspešnih koncertov v Sloveniji kot tudi drugje (GMS, Festival Bled, Komorni abonma Akademije za glasbo, celovečerni koncert v Operni hiši v Tirani ...) in je deloval pod mentorstvom prof. Tomaža Lorenza.
+Bil je tudi dolgoletni vodja drugih violin Godalnega orkestra Arseia iz Škofje Loke pod vodstvom profesorja in dirigenta Armina Seška, s katerim je nastopil na Festivalu Bled, Kristalnem abonmaju v Škofji Loki, Imago Slovenije, koncertih Glasbene mladine Slovenije, Festivalu Stična, Glasbeni Loki, Mestnem muzeju v Ljubljani, itd.
+Redni gostje pa so bili tudi izven slovenskih meja (Sremska Mitrovica/Beograd (Srbija), Zagreb/Grožnjan (Hrvaška), Gorica/Garda/Trst (Italija), Maasmecheln/Bruselj/Neerpelt (Belgija), Carlow (Irska), Mittenwald/Freising/Berlin (Nemčija) itd.
+V zadnjih letih deluje kot komorni glasbenik v različnih sestavih in vodja drugih violin Komornega orkestra Amadeo pod vodstvom dirigenta Tilna Drakslerja.
+
+Kot uvodoma omenjeno pa velik del njegovega glasbenega udejstvovanja predstavlja tudi pedagoško delo.
+Od leta 2019 je tako zaposlen kot profesor violine in komorne igre na Konservatoriju za glasbo in balet Ljubljana.
+Sodeluje tudi z Glasbenim centrom Edgar Willems ter glasbeno šolo Ljubljana Vič – Rudnik.
+Pod njegovim mentorstvom učenci izvajajo samostojne recitale in dosegajo visoke uvrstitve na mednarodnih tekmovanjih.
 
 
-## Nejc Mikolič {: itemprop="member"}
+## **Nejc Mikolič**, viola {: itemprop="member"}
 
 ![Nejc Mikolič]({static}/images/mugshot/Nejc-Mikolič.jpg){:.image-process-mugshot .float-right}
-**(viola)**
-Integer vel ultrices enim. Maecenas odio magna, tempus vel semper vel, efficitur sit amet ante. Suspendisse potenti. Aenean nec odio posuere, malesuada massa et, dignissim turpis. Aliquam tempor metus nec orci pharetra bibendum. Vestibulum metus nibh, placerat a imperdiet a, volutpat eu dui. Fusce consequat orci ut sapien consequat placerat. Phasellus at tortor pharetra, euismod enim a, sodales arcu. Mauris et sem eu mauris gravida gravida. Praesent lacus nibh, maximus dignissim varius sed, dictum eu odio. Integer eu magna in sem pellentesque dignissim. Pellentesque interdum arcu dolor, sit amet placerat eros rhoncus sit amet. Integer ante nisi, vestibulum sed sodales a, posuere eu ligula. Donec tellus magna, imperdiet sed enim et, pulvinar rhoncus nisi. Sed viverra congue augue eu suscipit. Ut egestas erat vel enim volutpat, in convallis risus consectetur.
+**Violist Nejc Mikolič** je od marca 2017 zaposlen kot soloviolist v KSO v Celovcu.
+Leta 2013 je iz viole z odliko diplomiral v razredu prof. Mileta Kosija na ljubljanski Akademiji za glasbo.
+Med študijem je prejel dve študentski Prešernovi nagradi, prvo za izvedbo _Koncerta za violo v C-duru_ Bohuslava Martinuja, z Orkestrom Slovenske filharmonije in drugo za koncertne dosežke z godalnim kvartetom A la Corda.
+Leta 2012 je opravil sprejemni izpit na Univerzi za glasbo in upodabljajočo umetnost na Dunaju, kjer je nadaljeval študij pri prof. H.P. Ochsenhofru.
+V času študija se je tudi redno izpopolnjeval pri mednarodno priznanih profesorjih, kot so Wolfram Christ, Ana Chumachenco, Menahem Pressler, Wen-Sinn Yang, Robert Nagy, Elmar Landerer in drugi.
+Kot solist je nastopil z Godalnim orkestrom Arseia iz Škofje Loke, Obalnim Komornim Orkestrom, Simfoničnim orkestrom Akademije za glasbo v Ljubljani in Simfoničnim orkestrom Slovenske filharmonije.
+Dvakrat se je udeležil seminarja v Trenti pri dunajskih filharmonikih ter kot solist in član kvarteta nastopil na zaključnem koncertu v Brahmsovi dvorani znamenitega Musikvereina na Dunaju.
+Sodelovanje na seminarju mu je prineslo tudi povabilo na avdicijo za pozicijo soloviolista v Dunajsko državno opero, kjer se je izmed vseh povabljenih uvrstil med pet finalistov.
+Poleg študija viole se je izobraževal na orglarski šoli v Ljubljani ter na Konservatoriju za glasbo in balet v Ljubljani iz solopetja, v razredu prof. Doroteje Cestnik-Spasić in prof. Janka Volčanška.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor elementum iaculis. Maecenas varius venenatis sem, non congue turpis consectetur sit amet. Morbi luctus, mi in semper fermentum, magna dui sagittis leo, in lacinia velit sem sit amet sapien. Aenean placerat varius nisl vel porttitor. Donec ante elit, volutpat et auctor a, sodales id dolor. Pellentesque iaculis ex vitae vulputate finibus. Quisque sit amet leo a est molestie aliquam. Aliquam pulvinar diam quis lectus finibus luctus. In non ornare erat. Nam commodo nisl mauris, vitae egestas arcu pharetra in. Donec dolor tellus, ornare sit amet felis sit amet, fermentum blandit lorem. Morbi id vulputate erat, vitae dignissim eros.
+Nejc svojo bogato koncertno dejavnost dopolnjuje z redno orkestrsko prakso: leta 2011 je tako po uspešno opravljeni avdiciji postal član priznanega mladinskega orkestra Gustav Mahler Jugend, simfoničnega orkestra EUphony Orchestra in Young Euro Classic Orchestra.
+Bil je dolgoletni član Orkestra Slovenske filharmonije, kjer je novembra 2014 opravil avdicijo za pozicijo soloviolista.
+Kot soloviolist je dve leti sodeloval na Orkesterski Akademiji v Ossiach-u, mednarodnem orkestru Pur-Pur (koncert ob otvoritvi Festivala Lubljana, leta 2013), Komornem orkestru iz Dunaja, v sezoni 2013/2014 je bil soloviolist Simfoničnega orkestra RTV Slovenije, kot soloviolist pa redno sodeluje tudi z orkestrom SNG Opera in balet v Ljubljani.
+
+Velik del njegove glasbene prakse je namenjen tudi komornemu muziciranju: poleg priložnostnih zasedb je bil redni član godalnega kvarteta A la corda, član godalnega seksteta Offstring, član dua Duo Fabula Nuova, član Godalnega kvarteta Slovenske filharmonije, godalnega kvarteta Testore in trenutno redni član zasedbe Ensemble Minui iz Celovca, s katerim so junija 2019 posneli prvo zgoščenko.
+Pri različnih projektih je sodeloval z Bernardo Fink, Irmo Mihelič, Evo Nino Kozmus, Primožem Novšakom, Lano Trotovšek, Miho Haasom, Andrejem Žustom, Iztokom Hrastnikom, Blažem Šparovcem, Aljažem Begušem, Petro Kovačič, Tatjano Ognjanovič in mnogimi drugimi.
+
+Poleg izjemno plodovite koncertne dejavnosti svoje delo dopolnjuje z redno pedagoško prakso: kot redni gostujoči profesor na poletni šoli v Grožnjanu na Hrvaškem in mentor poletne šole Festivala Amadeo.
+V mesecu januarju 2020 ga je senat Akademije za glasbo v Ljubljani po uspešno opravljeni habilitaciji izvolil v naziv docent.
 
 
-## Anuša Plesničar {: itemprop="member"}
+## **Anuša Plesničar**, viola {: itemprop="member"}
 
 ![Anuša Plesničar]({static}/images/mugshot/Anuša-Plesničar.jpg){:.image-process-mugshot .float-left}
-**(viola; univ. dipl. muzik.)**
-Mauris vel quam fermentum, efficitur mi vel, volutpat est. Etiam vitae quam placerat, tristique libero eget, eleifend neque. Cras dignissim nulla sed turpis sollicitudin tempus. Donec maximus accumsan orci, at sollicitudin nulla finibus in. Aliquam quis lobortis mauris. Curabitur fringilla iaculis nunc, non dapibus purus sagittis nec. Sed tellus ipsum, aliquet nec nisi eget, hendrerit scelerisque nulla. Aenean imperdiet vulputate tellus, eget rutrum enim interdum ut. Mauris faucibus neque lacus, ut tempor mi feugiat in.
+**Violistka in muzikologinja Anuša Plesničar** se je po uspešno opravljeni maturi na Gimnaziji Bežigrad sprva vpisala na študij muzikologije na Filozofski fakulteti v Ljubljani in oktobra 2011 vzporedno še na študij viole na Akademijo za glasbo v Ljubljani, kjer je bila študentka v razredu prof. Mileja Kosija in asistentke prof. Maje Rome.
+V okviru izmenjave se je po uspešno opravljenem preizkusu izobraževala na Musik und Kunst Privatuniversitat der Stadt (MUK) na Dunaju, v razredu prof. Herberta Mullerja.
+Januarja 2016 se je vpisala v študijski program "Master soloist" z izbrano smerjo: komorna igra, na Visoki šoli za glasbo v Detmoldu (Nemčija), kjer je julija 2018 z uspehom magistrirala v razredu prof. Veita Hertensteina.
+V septembru 2016 je na Oddelku za muzikologijo Filozofske fakultete Univerze v Ljubljani uspešno zaključila študij muzikologije z diplomskim delom "Recepcija glasbene umetnosti in misli Richarda Wagnerja v slovenskem kulturnem prostoru", za katero je bila nominirana za Prešernovo nagrado) in se v septembru 2019 vpisala tudi na doktorski študij Oddelka za muzikologijo Filozofske fakultete Univerze v Ljubljani, kjer njeno raziskovalno polje zajema operno problematiko v slovenskem kulturnem prostoru.
 
-Nam feugiat libero vitae nulla consectetur, et vehicula nibh ornare. Integer nisl tortor, ornare ac neque vel, lobortis auctor magna. Cras lacinia sem nec molestie iaculis. Fusce cursus orci ante. Aenean ornare, orci vitae condimentum laoreet, nunc justo vulputate turpis, sit amet sodales est turpis vitae sapien. Nam dictum nulla vitae ligula placerat faucibus. Suspendisse mattis purus vitae libero dapibus consectetur. Sed nec iaculis lectus. Vivamus vel tincidunt orci. Mauris ullamcorper ipsum arcu, eget ultrices enim rutrum vel. Praesent faucibus semper ante.
+Kot glasbenica je v letih svojega delovanja sodelovala z mnogimi orkestri in komornimi sestavi na kulturnem področju Slovenije in izven njenih meja. Bila je redna članica komornih orkestrov Camerata medica, Arseia iz Škofje Loke, godalnega kvarteta Arseia (Ljubljana) in godalnega kvinteta Vero (Dunaj).
+Kot solistka je nastopila s simfoničnim orkestrom Filozofske Filharmonije z _Žalno glasbo za violo in orkester_ P. Hindemitha.
+Bila je štipendistka Mestne občine Ljubljana, štipendistka poletne godalne akademije "SAAR 2017" v Saarbrucknu, štipendistka festivala komorne glasbe na Poljskem "Festival ensamble" 2018.
+Sodelovala je s simfoničnim orkestrom Hiše kulture v Celju, orkestrom Akademije Branimirja Slokarja, Mladimi ljubljanskimi solisti, mednarodnim orkestrom EUphony Youth Orchestra, Simfoničnim orkestrom SFK iz Celovca, Komornim orkestrom DKO iz Detmolda, komornim orkestrom iz Dunaja, ansamblom za sodobno glasbo "Ear-quake" iz Detmolda itd.
+Od oktobra 2018 do aprila 2019 je bila stalna honorarna sodelavka orkestra SNG Opere in baleta v Ljubljani, redno sodeluje tudi z Orkestrom Slovenske filharmonije, Simfoničnim orkestrom RTV Slovenije, Slovenskim komornim glasbenim gledališčem, Ljubljanskimi solisti, Simfoničnim orkestrom Alumni in komornim orkestrom Amadeo, kjer zaseda mesto vodje viol.
+Od leta 2017 je tudi stalna članica mednarodnega festivalnega orkestra ONO bienala sodobne glasbe "Ostrava days" in festivala novih opernih del "NODO" na Češkem, s katerim sodeluje kot soloviolistka orkestra in komorna glasbenica. Svoje strokovno znanje dopolnjuje z redno pedagoško prakso kot vodja sekcijskih vaj za godalce na Filozofski fakulteti Univerze v Ljubljani in profesorica violine in viole na Glasbeni šoli Škofja Loka.
+
+Kot študentka Oddelka za muzikologijo Filozofske fakultete v Ljubljani je sodelovala s prispevkom "Sodobna glasba med mladimi v slovenskem kulturnem prostoru" v letu 2011 v okviru Slovenskih glasbenih dni na študentskem simpoziju "Glasba in mladi" in v letu 2012 na mednarodnem (povezava fakultet: Gradec – Zagreb – Ljubljana) študentskem simpoziju v Zagrebu s prispevkom "Wagner med Slovenci".
+Bila je predsednica študentske sekcije Muzikološkega društva Slovenije (2011–2014), kjer je organizirala oz. soorganizirala: ekskurzije na Dunaj, ekskurzijo na Bavarsko "Po poteh R. Wagnerja", pogovore s skladatelji, okroglo mizo in različna predavanja.
+V letu 2014 je bila kot predsednica študentske sekcije tudi pobudnica in pomoč pri organizaciji "Slavnostne akademije ob 50-letnici Oddelka za muzikologijo v Ljubljani".
+V okviru Slovenskih glasbenih dni je v letu 2011 pripravila pogovor s skladateljico Bojana Šaljič-Podešva in v okviru Festivala Maribor učno pripravo za učence in učitelje koncerta z naslovom "Pa kaj!?", kjer se je tudi udeležila delavnice o "Kreativnem pisanju v in o kulturi" (september 2012) in sodelovala pri študentskem muzikološkem blogu Uho535B.
+Sodelovala je tudi kot moderatorka s Hišo kulture v Celju (cikel Vesperae musicae) in Slovensko filharmonijo (otroški cikel).
+Od leta 2011 je stalna sodelavka glasbene revije Glasna (Glasbene mladine Slovenije), od leta 2016 Kristalnega abonmaja Sokolskega doma v Škofji Loki ter od leta 2018 tudi sodelavka komornega cikla Carpe artem iz Maribora.
+Poleg dirigenta in pianista Tilna Drakslerja je soustanoviteljica komornega Orkestra Amadeo in nadalje kreativni vodja Festivala Amadeo ("Od Škofje Loke do Sorice"), ki poleg koncertne dejavnosti vključuje tudi poletno šolo za glasbenike in od leta 2019 tudi likovne delavnice.
+Nenazadnje, je tudi idejni vodja projekta za komorno glasbo
+[_Slovenski godalni sekstet_](https://godalni-sekstet.si).
 
 
-## Izak Hudnik {: itemprop="member"}
+## **Izak Hudnik**, violončelo {: itemprop="member"}
 
 ![Izak Hudnik]({static}/images/mugshot/Izak-Hudnik.jpg){:.image-process-mugshot .float-right}
-**(violončelo)**
-Integer vel ultrices enim. Maecenas odio magna, tempus vel semper vel, efficitur sit amet ante. Suspendisse potenti. Aenean nec odio posuere, malesuada massa et, dignissim turpis. Aliquam tempor metus nec orci pharetra bibendum. Vestibulum metus nibh, placerat a imperdiet a, volutpat eu dui. Fusce consequat orci ut sapien consequat placerat. Phasellus at tortor pharetra, euismod enim a, sodales arcu. Mauris et sem eu mauris gravida gravida. Praesent lacus nibh, maximus dignissim varius sed, dictum eu odio. Integer eu magna in sem pellentesque dignissim. Pellentesque interdum arcu dolor, sit amet placerat eros rhoncus sit amet. Integer ante nisi, vestibulum sed sodales a, posuere eu ligula. Donec tellus magna, imperdiet sed enim et, pulvinar rhoncus nisi. Sed viverra congue augue eu suscipit. Ut egestas erat vel enim volutpat, in convallis risus consectetur.
+**Violončelist Izak Hudnik** po končanem magistrskem študiju na Salzburškem Mozarteumu pri profesorju Giovanniju Gnocchiju nadaljuje glasbeno pot na Züriški visoki šoli za umetnost v razredu Thomasa Grossenbacherja.
+Po uspešno opravljeni maturi na Gimnaziji Bežigrad je sprva študiral pri Milošu Mlejniku v Ljubljani in Reinhardu Latzku na Dunaju.
+Izpopolnjeval se je na seminarjih pri D. Grigorjanu, S. Isserlisu, J. Arpu, D. Đorđeviču, M. Ostertagu, R. Nagyu, T. Thedéenu, P. Mullerju, C. Polteri, T. Svaneju, J.P. Maintzu, M. Brunellu in H. Schiffu.
+Udeležil se je tudi seminarja Dunajskih filharmonikov v Trenti ter z godalnim kvartetom nastopil v Musikvereinu.
+S prvimi nagradami na državnih (2009, 2015, 2018) in mednarodnih tekmovanjih v Poreču (A. Janigro), Lieznu, Trstu, Gorici in Ljubljani (Svirél) si je prislužil vrsto nastopov doma in v tujini (Liezen, Poreč, Svirel, Trst, Gorica).
+
+Kot solist je nastopil z Orkestrom slovenske vojske, s Komornim godalnim orkestrom Slovenske filharmonije, s Simfoničnim orkestrom RTV Slovenija, Akademije za glasbo Univerze v Ljubljani, Komornim orkestrom Amadeo, Zagrebškimi solisti, orkestrom Württemberg filharmonije iz Reutlingena in Nizozemskim študentskim orkestrom.
+
+Je član Ljubljanskih solistov in klavirskega tria Ad Hoc.
+Kot zagret komorni glasbenik se je udeležil mednarodnih festivalov kot so Accademia dei Cameristi Bari, Slowind, Imago, Trame Sonore Mantova, Musethica (Berlin), Ostrava New Music Days ter Festivala Bled in Ljubljana.
+Ob spremljavi Zagrebških solistov je februarja 2020 nastopil na otvoritvenem koncertu mednarodnega violončelističnega tekmovanja Antonio Janigro, oktobra 2020 pa je s slavnim Maximom Vengerovim v sklopu Univerze Mozarteum zaigral Brahmsov klavirski kvintet.
+
+Navdihuje ga filozofija, še posebej se posveča fenomenološki interpretaciji znanosti ter seveda glasbe.
+V zadnjem času se je raziskovalno zbližal predvsem s kontemplativnimi izkušnjami v gregorijanskem koralu in–v sodelovanju z bratom Tobijo–sodobni improvizirani glasbi.
+Je prejemnik Prešernove nagrade akademije za glasbo in nekdanji štipendist Mestne občine Ljubljana.
 
 
-## Katarina Kozjek {: itemprop="member"}
+## **Katarina Kozjek**, violončelo {: itemprop="member"}
 
 ![Katarina Kozjek]({static}/images/mugshot/Katarina-Kozjek.jpg){:.image-process-mugshot .float-left}
-**(violončelo)**
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+**Violončelistka Katarina Kozjek** se je vpisala na Akademijo za glasbo v Ljubljani, sprva v razred prof. Igorja Škerjanca, februarja 2019 pa je magistrirala v razredu prof. Miloša Mlejnika.
+Kot solistka in komorna glasbenica je prejela več nagrad na priznanih domačih in mednarodnih tekmovanjih, kot so tekmovanje "Alfredo and Vanda Marcosig" v Gorici, tekmovanje "Antonio Salieri" v Legnagu, tekmovanje "Ars Nova" v Trstu, tekmovanje "Davorin Jenko" v Beogradu in državno tekmovanje mladih slovenskih glasbenikov "TEMSIG".
+Izpopolnjevala se je na seminarjih pri znanih pedagogih Damirju Hamidullinu, Karmen Pečar Koritnik, Davidu Gregorijanu, Julianu Arpu, Aleksandru Latckoviću, Konstantinu Pfiz, Jörg Widmann, Valery Sokolov, Wen-Sinn Yang, Werner Bärtschi in Goranu Bakraču.
+
+Solistično ali komorno redno sodeluje na koncertih, predstavah in recitalih v organizaciji Glasbene mladine ljubljanske, Glasbene mladine Slovenije, "Festivala Bled", "Poletnega festivala Ljubljana", "EPTA", Društva slovenskih skladateljev, Imago Sloveniae, Slovenskega ljudskega gledališča Celje, Slovenskega komornega glasbenega gledališča, komornega sestava Ljubljanski solisti, Slovenskega komornega glasbenega gledališča in ostalih priložnostnih projektih.
+
+Orkestrsko spretnost si pridobiva z igranjem v mnogih orkestrskih priložnostnih ali profesionalnih sestavih. Med njimi tudi Wonderful Youth Orchestra, Branimir Slokar Academy, The Euro Symphony SFK, Simfonični orkester Domžale – Kamnik, Komorni orkester Amadeo, kot substitut pa večkrat igra tudi v Orkestru Slovenske filharmonije ter Orkestru RTV Slovenija.
+
+Aprila 2013 je kot solistka s Simfoničnim orkestrom Domžale – Kamnik, pod vodstvom Simona Krečiča, izvedla _Koncert za violončelo in orkester št. 1_, C. Saint-Saënsa, leto kasneje pa skladbo _Kol Nidrei_, skladatelja Maxa Brucha pod taktirko Slavena Kulenovića.
+Aprila 2016 je v kulturnem domu Franca Bernika krstno izvedla skladbo _Veronikina usoda_ skladatelja Tomaža Habeta.
+Je članica Dua Antares, ki sta ga ustanovili skupaj z violončelistko Tadejo Žele, redno pa nastopa kot članica Godalnega kvarteta Emona, s katerim so marca 2020 prejeli 1. nagrado in posebno nagrado za najboljšo izvedbo skladbe slovenskega skladatelja.
+V mnogih raznovrstnih zasedbah je tako poleg domačih odrov nastopila tudi drugje po Evropi in Aziji.
+Poučuje na Waldorfski glasbeni šoli in Glasbeni šoli Kranj.
 
 
 <div class="signature"></div>
