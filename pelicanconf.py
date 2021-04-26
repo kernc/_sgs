@@ -240,11 +240,10 @@ MENU_LANG = {
 
 LOGO_LINKS = [
     ('Nauportus Viva', 'https://nauportus.wordpress.com'),
-    ('Glasbena Matica', 'https://www.glasbenamatica.si'),
     ('Glasbena mladina ljubljanska', 'https://www.gml-drustvo.si'),
     ('Revija Glasna', 'http://www.revijaglasna.si'),
-    ('Festival Ljubljana', 'https://ljubljanafestival.si'),
     ('Mestni muzej Ljubljana', 'https://mgml.si/sl/mestni-muzej/'),
+    ('Imago Sloveniae', 'https://imagosloveniae.net'),
     ('Radio televizija Slovenija', 'https://www.rtvslo.si/rtv/kdo-smo/glasbena-produkcija'),
     ('Hiša kulture Celje', 'http://www.hisakulture.si'),
     ('Univerza v Ljubljani, Akademija za glasbo', 'http://www.ag.uni-lj.si'),
