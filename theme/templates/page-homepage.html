@@ -23,16 +23,13 @@
     <link itemprop="knowsAbout" href="http://dbpedia.org/page/Category:Chamber_music">
 
     <style>
-    .hero-image-container {
-        text-align:center;
+    .hero-image {
+        width: calc(100% + 6em);
+        margin-left: -3em;
+        height: auto;
         border-bottom: 1em solid var(--header-bgcolor);
     }
-        .hero-image {
-            width: 100%;
-            max-width: 145vh;
-            height: 100%;
-        }
-        main article { margin-top:0 !important; }
+    main article { margin-top:0 !important; }
 
     .row {
         grid-gap: 4em;
@@ -92,9 +89,7 @@
 {% endblock %}
 
 {% block content %}
-    <div class="hero-image-container">
-        <img alt width="166" height="100" src="{{ SITEURL }}/images/parallax/Slovenski-godalni-sekstet-04902.jpg" class="hero-image image-process-homepage" itemprop="image" aria-hidden="true">
-    </div>
+    <img alt width="2000" height="1200" src="{{ SITEURL }}/images/parallax/Slovenski-godalni-sekstet.jpg" class="hero-image image-process-homepage" itemprop="image" aria-hidden="true">
 
     <div class="row">
         <article class="excerpt">
