@@ -147,7 +147,6 @@ def T(label, lang, _TRANS={
         'en': {
             SITENAME: 'Slovenian string sextet',
             '<span>Slovenski</span><br>godalni sekstet': '<span>Slovenian</span><br>string sextet',
-            'O nas': 'About Us',
             'Zadnje objave': 'Latest news',
         }}):
     try:

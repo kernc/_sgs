@@ -4,7 +4,25 @@ save_as: en/index.html
 hide_in_menu: 1
 template: page-homepage
 
+The small chamber orchestra  **String Sextet** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
+The ensemble consists of top Slovenian musicians of the younger generation who gather their knowledge and experience both at home and abroad.
+{: itemprop="description"}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lacus urna, efficitur nec nisi non, imperdiet ultrices felis.
-In tincidunt, dui in pellentesque congue, odio lorem feugiat tortor, sit amet maximus enim sem sit amet dui...
-[Read more]({filename}/pages/en/about.md)
+<blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" style="font-size: .9em; font-weight: 100; font-style: italic;"><p>
+... The fullness of the string sound was what the sextet,
+established as a project ensemble in 2017, already has pedigree for.
+It sounded like the musicians have had behind them god knows how many decades
+of work and joint music creation. This was pointed out by the constant pulsation of the six,
+which has built string interpretations on excellent technical elements,
+available to each individual and all of them combined ...
+</p></blockquote>
+Franc Križnar, SIGIC — Autumn serenades 2020
+{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400;"}
+
+Find out more about the sextet and its members in the
+[about us]({filename}/pages/en/about.md) section.
+You are also invited to review our
+[program sheet]({filename}/pages/en/program.md)
+and view promotional photos in the
+[gallery]({filename}/pages/en/gallery.md).
+If you like the content of the website, share it with your best friends.

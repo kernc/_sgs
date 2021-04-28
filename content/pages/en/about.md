@@ -4,10 +4,22 @@ template: page-about
 parallax: Slovenski-godalni-sekstet-04442.jpg
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor elementum iaculis. Maecenas varius venenatis sem, non congue turpis consectetur sit amet. Morbi luctus, mi in semper fermentum, magna dui sagittis leo, in lacinia velit sem sit amet sapien. Aenean placerat varius nisl vel porttitor. Donec ante elit, volutpat et auctor a, sodales id dolor. Pellentesque iaculis ex vitae vulputate finibus. Quisque sit amet leo a est molestie aliquam. Aliquam pulvinar diam quis lectus finibus luctus. In non ornare erat. Nam commodo nisl mauris, vitae egestas arcu pharetra in. Donec dolor tellus, ornare sit amet felis sit amet, fermentum blandit lorem. Morbi id vulputate erat, vitae dignissim eros.
+The small chamber orchestra  **String Sextet** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
+The ensemble consists of top Slovenian musicians of the younger generation who gather their knowledge and experience both at home and abroad.
 {: itemprop="description"}
 
-We are:
+<blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" style="font-size: .9em; font-weight: 100; font-style: italic;"><p>
+... The fullness of the string sound was what the sextet,
+established as a project ensemble in 2017, already has pedigree for.
+It sounded like the musicians have had behind them god knows how many decades
+of work and joint music creation. This was pointed out by the constant pulsation of the six,
+which has built string interpretations on excellent technical elements,
+available to each individual and all of them combined ...
+</p></blockquote>
+Franc Križnar, SIGIC — Autumn serenades 2020
+{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400;"}
+
+The ensemble of two violins, two violas and two violoncellos consists of:
 
 [TOC]
 

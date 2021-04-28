@@ -4,10 +4,22 @@ template: page-about
 parallax: Slovenski-godalni-sekstet-04442.jpg
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor elementum iaculis. Maecenas varius venenatis sem, non congue turpis consectetur sit amet. Morbi luctus, mi in semper fermentum, magna dui sagittis leo, in lacinia velit sem sit amet sapien. Aenean placerat varius nisl vel porttitor. Donec ante elit, volutpat et auctor a, sodales id dolor. Pellentesque iaculis ex vitae vulputate finibus. Quisque sit amet leo a est molestie aliquam. Aliquam pulvinar diam quis lectus finibus luctus. In non ornare erat. Nam commodo nisl mauris, vitae egestas arcu pharetra in. Donec dolor tellus, ornare sit amet felis sit amet, fermentum blandit lorem. Morbi id vulputate erat, vitae dignissim eros.
+Komorna zasedba **Godalni sekstet** že od leta 2017 koncertira v slovenskem kulturnem prostoru in izven njega.
+Zasedbo sestavljajo vrhunski slovenski glasbeniki mlajše generacije, ki so svoje znanje in izkušnje pridobivali tako doma kot po svetu.
 {: itemprop="description"}
 
-Bend sestavljamo:
+<blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" style="font-size: .9em; font-weight: 100; font-style: italic;"><p>
+... Polnozvočnost godalnega zvoka je bil tisti pleno, po katerem ima sekstet,
+ustanovljen kot projektni ansambel leta 2017, že svoj pedigre.
+Slišati je bilo, kot da imajo glasbeniki za seboj že ne vem koliko desetletij
+dela in skupnega muziciranja. Na to je opozorilo nenehno pulziranje šesterice,
+ki je godalne interpretacije zgradila na odličnih tehničnih prvinah,
+s katerimi razpolaga vsak posamič in vsi skupaj ...
+</p></blockquote>
+Franc Križnar, SIGIC — Jesenske serenade 2020
+{:style="margin-left:40px; font-size: .8em; font-weight: 400;"}
+
+Ansambel dveh violin, dveh viol in dveh violončel sestavljamo:
 
 [TOC]
 
