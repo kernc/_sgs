@@ -5,9 +5,9 @@ page_order: 9
 
 <address itemprop="address" markdown="block">
 * <i class="fa fa-map-marker"></i> Slovenski godalni sekstet
-* <i class="fa fa-phone"></i> [+386 40 847 567](tel:+386-40-847-567){: itemprop="telephone"}
-* <i class="fa fa-envelope"></i> [godalnisekstet@<span hidden>NOSPAM</span>gmail.com](mailto:godalnisekstet){: id="email-link" itemprop="email"}
-* <i class="fa fa-globe"></i> [www.foobar.org](https://foobar.org){: itemprop="url"}
+* <i class="fa fa-phone"></i> [+386 40 <span hidden>NOSPAM</span>847<span hidden>NOSPAM</span> 567](tel:){: id="tel-link" itemprop="telephone"}
+* <i class="fa fa-envelope"></i> [godalnisekstet@<span hidden>NO SPAM</span>gmail.com](mailto:godalnisekstet){: id="email-link" itemprop="email"}
+* <i class="fa fa-globe"></i> [www.godalni-sekstet.si](https://godalni-sekstet.si){: itemprop="url"}
 </address>
 
 

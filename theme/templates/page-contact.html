@@ -91,9 +91,11 @@
 
     <script>
         window.addEventListener('load', () => {
-            var email_link = document.querySelector('#email-link');
-            email_link.href += '@gmail.com';
+            document.querySelector('#email-link').href += '@gmail.com';
+            document.querySelector('#tel-link').href += '+386-40' + '-847-' + '567';
+        });
 
+        window.addEventListener('load', () => {
             var form = document.forms.contact;
             form.querySelectorAll('[disabled]').forEach(el => { el.disabled = false; });
 
@@ -103,11 +105,12 @@
                     cc = encodeURIComponent(form.cc.value),
                     subject = encodeURIComponent(form.subject.value),
                     body = encodeURIComponent(form.body.value),
-                    a = document.createElement('a');
-                a.href = `${email_link.href}?cc=${cc}&subject=${subject}&body=${body}`;
+                    a = document.createElement('a'),
+                    href = document.querySelector('#email-link').href;
+                a.href = `${href}?cc=${cc}&subject=${subject}&body=${body}`;
 
                 var t = setTimeout(() => {
-                    alert('Failed to open configured mailto handler / e-mail client. Please try manually.');
+                    alert('Failed to open configured mailto handler / e-mail client. Please send email manually to the specified address.');
                     button.innerHTML = prev_label;
                 }, 10000);
                 var button = form.querySelector('button'),
