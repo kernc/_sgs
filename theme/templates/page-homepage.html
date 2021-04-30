@@ -117,7 +117,7 @@
     <ul class="partners">
         {% for alt, href in LOGO_LINKS %}
         {% set image = '{}/images/logos/{}.png'.format(SITEURL, alt.lower().replace(' ', '-')) %}
-        <li><a href="{{ href }}" target="_blank" itemprop="sponsor"
+        <li><a href="{{ href }}" title="{{ alt }}" target="_blank" itemprop="sponsor"
                rel="noopener noreferrer"
                itemscope itemtype="http://schema.org/Organization"><img itemprop="logo" alt="{{ alt }}" src="{{ image }}" loading="lazy"></a></li>
         {% endfor %}
