@@ -75,7 +75,7 @@ The ensemble of two violins, two violas and two violoncellos, thus, consists of:
 
 ## **Ana Dolžan**, violin {: itemprop="member"}
 
-![Ana Dolžan]({static}/images/mugshot/Ana-Dolžan.jpg){:.image-process-mugshot .float-right .style="border-radius: 35% 65% 47% 53% / 34% 39% 61% 66%"}
+![Ana Dolžan]({static}/images/mugshot/Ana-Dolžan.jpg){:.image-process-mugshot .float-right}
 **Violinist _Ana Dolžan_** is the current concertmaster of Slovenian Philharmonic Orchestra and Slovenian Philharmonic Chamber String Orchestra.
 She received her master's degree with honors in the class of prof. Primož Novšak at Academy of Music of the University of Ljubljana.
 After completing her studies in Slovenia, she continued her specialized master's degree in music art as a soloist in the class of renowned professor Andreas Janke at the University of the Arts in Zurich.
