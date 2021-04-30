@@ -137,6 +137,7 @@ body > main > article {
 }
     body > main > article p {
         hyphens: auto;
+        text-align: justify;
     }
     body > main > article p img {
         border: 6px double #888;
