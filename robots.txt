@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: https://foobar.org/sitemap.txt
+Sitemap: https://godalni-sekstet.si/sitemap.txt
