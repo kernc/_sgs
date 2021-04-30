@@ -22,7 +22,7 @@ se je formirala stalna zasedba v sestavi:
 in se poleg komorne igre redno udejstvujejo tudi v orkestrski
 (Orkester Slovenske filharmonije, KSO Celovec, Simfonični orkester RTV Slovenija)
 in pedagoški
-(Akademija za glasbo Univerze v Ljubljani, Konzervatorij za glasbo in balet Ljubljana, GŠ Škofja Loka, GŠ Kranj)
+(Akademija za glasbo Univerze v Ljubljani, Konservatorij za glasbo in balet Ljubljana, GŠ Škofja Loka, GŠ Kranj)
 praksi, s svojim delom pa posegajo celo v raziskovalna polja filozofije in muzikologije.
 {: itemprop="description"}
 
