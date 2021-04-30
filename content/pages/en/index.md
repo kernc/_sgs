@@ -4,8 +4,8 @@ save_as: en/index.html
 hide_in_menu: 1
 template: page-homepage
 
-The small chamber orchestra  **_Slovenian String Sextet_** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
-The ensemble consists of top Slovenian musicians of the younger generation who gather their knowledge and experience both at home and abroad.
+The chamber orchestra  **_Slovenian String Sextet_** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
+The chamber ensemble consists of top Slovenian musicians of the younger generation who gather their knowledge and experience both at home and abroad.
 {: itemprop="description"}
 
 <blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" style="font-size: .9em; font-weight: 100; font-style: italic;"><p>
@@ -23,6 +23,5 @@ Find out more about the sextet and its members in the
 [about us]({filename}/pages/en/about.md) section.
 You are also invited to review our
 [program sheet]({filename}/pages/en/program.md)
-and view promotional photos in the
+and view promotional media in the
 [gallery]({filename}/pages/en/gallery.md).
-If you like the content of this website, share it with your friends.

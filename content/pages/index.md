@@ -24,6 +24,5 @@ Podrobneje o sekstetu in članih izveste v rubriki
 [o nas]({filename}/pages/about.md).
 Vabljeni tudi, da preletite naš
 [programski list]({filename}/pages/program.md)
-in si ogledate promocijske fotografije v
+in si ogledate promocijske medijske vsebine v
 [galeriji]({filename}/pages/gallery.md).
-Vsebine spletne strani, ki so vam všeč, prosto delite med prijatelje.
