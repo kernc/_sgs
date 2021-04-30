@@ -28,12 +28,19 @@
 
     <style>
     .hero-image {
-        width: calc(100% + 6em);
-        margin-left: -3em;
+        width: calc(100% + 2em);
+        margin-left: -1em;
         height: auto;
         border-bottom: 1em solid var(--header-bgcolor);
     }
     main article { margin-top:0 !important; }
+
+    @media (min-width: 830px) {
+        .hero-image {
+            width: calc(100% + 6em);
+            margin-left: -3em;
+        }
+    }
 
     .row {
         grid-gap: 4em;
@@ -84,6 +91,7 @@
         }
         .partners img {
             max-width: 100%;
+            height: auto;
         }
 
     @media (min-width: 550px) { .partners { column-count: 4; } }
@@ -119,7 +127,7 @@
         {% set image = '{}/images/logos/{}.png'.format(SITEURL, alt.lower().replace(' ', '-')) %}
         <li><a href="{{ href }}" title="{{ alt }}" target="_blank" itemprop="sponsor"
                rel="noopener noreferrer"
-               itemscope itemtype="http://schema.org/Organization"><img itemprop="logo" alt="{{ alt }}" src="{{ image }}" loading="lazy"></a></li>
+               itemscope itemtype="http://schema.org/Organization"><img itemprop="logo" alt="{{ alt }}" src="{{ image }}" loading="lazy" width="300" height="300"></a></li>
         {% endfor %}
     </ul>
 {% endblock content %}

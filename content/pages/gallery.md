@@ -4,8 +4,8 @@ template: page-gallery
 parallax: Slovenski-godalni-sekstet-05430.jpg
 
 
-[![foto 04902][id04902]{:.image-process-gallery loading="lazy" itemprop="image"}][id04902]
-[![foto 05430][id05430]{:.image-process-gallery loading="lazy" itemprop="image"}][id05430]
+[![foto 04902][id04902]{:.image-process-gallery itemprop="image"}][id04902]
+[![foto 05430][id05430]{:.image-process-gallery itemprop="image"}][id05430]
 [![foto 05279][id05279]{:.image-process-gallery loading="lazy" itemprop="image"}][id05279]
 [![foto 05112][id05112]{:.image-process-gallery loading="lazy" itemprop="image"}][id05112]
 [![foto 04866][id04866]{:.image-process-gallery loading="lazy" itemprop="image"}][id04866]
