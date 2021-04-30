@@ -17,7 +17,7 @@ which has built string interpretations on excellent technical elements,
 available to each individual and all of them combined ...
 </p></blockquote>
 **Franc Križnar**, SIGIC — Autumn serenades 2020
-{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400;"}
+{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400; text-align: start;"}
 
 Find out more about the sextet and its members in the
 [about us]({filename}/pages/en/about.md) section.

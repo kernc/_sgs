@@ -18,7 +18,7 @@ ki je godalne interpretacije zgradila na odličnih tehničnih prvinah,
 s katerimi razpolaga vsak posamič in vsi skupaj ...
 </p></blockquote>
 **Franc Križnar**, SIGIC — Jesenske serenade 2020
-{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400;"}
+{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400; text-align: start;"}
 
 Podrobneje o sekstetu in članih izveste v rubriki
 [o nas]({filename}/pages/about.md).

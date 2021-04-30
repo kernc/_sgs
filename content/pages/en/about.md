@@ -34,7 +34,7 @@ which has built string interpretations on excellent technical elements,
 available to each individual and all of them combined ...
 </p></blockquote>
 **Franc Križnar**, SIGIC — Autumn serenades 2020
-{:style="margin-left:40px; font-size: .8em; font-weight: 400;"}
+{:style="margin-left:40px; font-size: .8em; font-weight: 400; text-align: start;"}
 
 In the past years, the ensemble has performed numerous concerts across Slovenia
 (Ljubljana, Celje, Vrhnika, Kropa, etc.).

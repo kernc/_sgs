@@ -35,7 +35,7 @@ ki je godalne interpretacije zgradila na odličnih tehničnih prvinah,
 s katerimi razpolaga vsak posamič in vsi skupaj ...
 </p></blockquote>
 **Franc Križnar**, SIGIC — Jesenske serenade 2020
-{:style="margin-left:40px; font-size: .8em; font-weight: 400;"}
+{:style="margin-left:40px; font-size: .8em; font-weight: 400; text-align: start;"}
 
 Zasedba je v prvih nekaj letih nanizala lepo število skupnih koncertov
 (Ljubljana, Celje, Vrhnika, Kropa itd.),
