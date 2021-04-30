@@ -186,6 +186,8 @@ body > main > article {
         height: 3em;
     }
 
+li { break-inside: avoid; }
+
 .parallax {
     position: relative;
     height: calc(33vw - var(--footer-height));
