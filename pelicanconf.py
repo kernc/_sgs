@@ -9,7 +9,7 @@ CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = True
 GZIP_CACHE = False
 
-SITEURL = 'https://kernc.github.io/_sgs'
+SITEURL = 'https://godalni-sekstet.si'
 # ~ SITEURL = 'http://localhost:8000'
 
 assert not SITEURL.endswith('/')
