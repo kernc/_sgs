@@ -188,6 +188,13 @@ body > main > article {
 
 li { break-inside: avoid; }
 
+iframe {
+    max-width: 100%;
+    max-height: 30vh;
+    display: block;
+    margin: 1em 0;
+}
+
 .parallax {
     position: relative;
     height: calc(33vw - var(--footer-height));
