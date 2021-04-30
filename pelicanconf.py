@@ -145,8 +145,8 @@ DEADLINK_OPTS = {
 
 def T(label, lang, _TRANS={
         'en': {
-            SITENAME: 'Slovenian string sextet',
-            '<span>Slovenski</span><br>godalni sekstet': '<span>Slovenian</span><br>string sextet',
+            SITENAME: 'Slovenian String Sextet',
+            '<span>Slovenski</span><br>godalni sekstet': '<span>Slovenian</span><br>String Sextet',
             'Zadnje objave': 'Latest news',
         }}):
     try:
@@ -198,6 +198,18 @@ IMAGE_PROCESS = {
             ('800w', ['scale_out 800 0 False']),
             ('1000w', ['scale_out 1000 0 False']),
             ('1200w', ['scale_out 1200 0 False']),
+        ],
+    },
+    'sextet-members': {
+        'type': 'responsive-image',
+        'default': '1000w',
+        'sizes': '(min-width: 1100px) 1000px,'
+                 '100vw',
+        'srcset': [
+            ('400w', ['scale_out 400 0 False']),
+            ('600w', ['scale_out 600 0 False']),
+            ('800w', ['scale_out 800 0 False']),
+            ('1000w', ['scale_out 1000 0 False']),
         ],
     },
     'mugshot': {

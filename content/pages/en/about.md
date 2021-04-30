@@ -4,8 +4,25 @@ template: page-about
 parallax: Slovenski-godalni-sekstet-04442.jpg
 
 
-The small chamber orchestra  **String Sextet** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
-The ensemble consists of top Slovenian musicians of the younger generation who gather their knowledge and experience both at home and abroad.
+The small chamber ensemble  **_Slovenian String Sextet_** has been performing since september 2017,
+when, in making a gesture of respect and as a tribute in memory of
+[**prof. Tomaž Lorenz**](https://www.google.com/search?q=tomaž+lorenz),
+the musicians, in collaboration with Ljubljana Musical Youth, gathered in Ljubljana City Museum
+to hold a concert, which has since grown into a real musical tradition in the cycle of _"Autumn Serenades"_.
+Due to past successes and mutual interest in making chamber music,
+a permanent ensemble was formed:
+**Ana Dolžan** and **Vid Sajovic** on violin,
+**Nejc Mikolič** and **Anuša Plesničar** on viola, and
+**Izak Hudnik** and **Katarina Kozjek** on cello.
+Members of the Slovenian String Sextet gained their education both at home and abroad
+(Ljubljana, Vienna, Detmold, Rotterdam, Zurich, Salzburg).
+In addition to performing in a chamber ensemble, they also regularly
+participate in larger orchestras
+(Slovenian Philharmonic Orchestra, KSO Klagenfurt, RTV Slovenia Symphony Orchestra, etc.)
+and maintain ties in pedagogical activity
+(Academy of Music of the University of Ljubljana, Conservatory of Music and Ballet Ljubljana,
+Music School Škofja Loka, Kranj Music School, etc.).
+Their work often reaches into research fields of philosophy and musicology.
 {: itemprop="description"}
 
 <blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" style="font-size: .9em; font-weight: 100; font-style: italic;"><p>
@@ -16,18 +33,50 @@ of work and joint music creation. This was pointed out by the constant pulsation
 which has built string interpretations on excellent technical elements,
 available to each individual and all of them combined ...
 </p></blockquote>
-Franc Križnar, SIGIC — Autumn serenades 2020
-{:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400;"}
+**Franc Križnar**, SIGIC — Autumn serenades 2020
+{:style="margin-left:40px; font-size: .8em; font-weight: 400;"}
 
-The ensemble of two violins, two violas and two violoncellos consists of:
+In the past years, the ensemble has performed numerous concerts across Slovenia
+(Ljubljana, Celje, Vrhnika, Kropa, etc.).
+In 2021, two new music cycles were formed: the first one with a poetic name
+_"24 strings in the atrium"_, a series of concerts in the Atrium ZRC SAZU in
+Ljubljana, promoting, by performance, the musical novelties of many Slovenian composers.
+The second new cycle is
+["_DermotAbonma_"](https://kultura-kropa.si/dermotabonma/)
+in Kropa in Upper Carniola,
+dedicated to Slovenian tenor
+[**Anton Dermota**](https://en.wikipedia.org/wiki/Anton_Dermota),
+in collaboration with successful Slovenian singers:
+**Klemen Torkar**,
+[**Liza Šparovec**](https://lizasparovec.com),
+**Tomaž Štular** and
+[**Irma Mihelič**](http://www.opera4u.com/en/artists/detail/mihelic/).
+In addition, Slovenian composer
+[**Larisa Vrhunc**](https://worldcat.org/identities/lccn-no2005023988/)
+dedicated her composition entitled _"String Sextet"_ to our chamber ensemble,
+and in December 2020, the sextet received an offer for studio recording (Krek, Dvořák)
+in collaboration with Radio and television of Slovenia.
+
+![Members of Slovenian String Sextet]({static}/images/mugshot/Slovenian-String-Sextet-members.jpg){:.image-process-sextet-members}
+{: style="text-align:center"}
+
+For members of our sextet, chamber music, among other musical fields,
+represents the crown jewel of musical creation and fulfills them both professionally and personally.
+In addition to the quality of their program, their main contributions are ardent promotion of
+newly written Slovenian works for string sextet and a strongly emphasized educational component.
+
+The ensemble of two violins, two violas and two violoncellos, thus, consists of:
+
 
 [TOC]
+
+<br><br>
 
 
 ## **Ana Dolžan**, violin {: itemprop="member"}
 
 ![Ana Dolžan]({static}/images/mugshot/Ana-Dolžan.jpg){:.image-process-mugshot .float-right .style="border-radius: 35% 65% 47% 53% / 34% 39% 61% 66%"}
-**Violinist Ana Dolžan** is current concertmaster of Slovenian Philharmonic Orchestra and Slovenian Philharmonic Chamber String Orchestra.
+**Violinist _Ana Dolžan_** is the current concertmaster of Slovenian Philharmonic Orchestra and Slovenian Philharmonic Chamber String Orchestra.
 She received her master's degree with honors in the class of prof. Primož Novšak at Academy of Music of the University of Ljubljana.
 After completing her studies in Slovenia, she continued her specialized master's degree in music art as a soloist in the class of renowned professor Andreas Janke at the University of the Arts in Zurich.
 During this time, she also received additional training from Janez Podlesk, Benjamin Ziervogl, Volodja Balžalorski, Tomaž Lorenz, Lucinda Carver, Emil Cantor, Wonja Kim Ozim, Igor Ozim, Trio di Parma and others.
@@ -47,7 +96,7 @@ For her achievements in the field of music, she also received an award from Muni
 ## **Vid Sajovic**, violin {: itemprop="member"}
 
 ![Vid Sajovic]({static}/images/mugshot/Vid-Sajovic.jpg){:.image-process-mugshot .float-left}
-**Violinist Vid Sajovic** is a professor of violin and chamber music at Conservatory of Music and Ballet in Ljubljana.
+**Violinist _Vid Sajovic_** is a professor of violin and chamber music at Conservatory of Music and Ballet in Ljubljana.
 He graduated at Academy of Music of University of Ljubljana in the class of prof. Vasily Melnikov.
 He then perfected his knowledge at the postgraduate level at Codarts University for the Arts in Rotterdam, where he received his master's degree in June 2017 in the class of prof. Andrasa Czifra.
 During his studies, he achieved top success in many prestigious national and international competitions: 2nd prize at the international competition Ars Nova in Trieste, 1st prize at the international competition Societa Jupiter Cogoleto in Genoa, 1st prize at the 8th international competition Petar Krančević in Sremska Mitrovica.
@@ -68,7 +117,7 @@ Under his mentorship, students perform solo recitals and achieve high rankings i
 ## **Nejc Mikolič**, viola {: itemprop="member"}
 
 ![Nejc Mikolič]({static}/images/mugshot/Nejc-Mikolič.jpg){:.image-process-mugshot .float-right}
-**Violist Nejc Mikolič** has been employed as a soloist at Carinthian Symphony Orchestra in Klagenfurt since March 2017.
+**Violist _Nejc Mikolič_** has been employed as a soloist at Carinthian Symphony Orchestra in Klagenfurt since March 2017.
 In 2013 he graduated with honors from viola in the class of prof. Mile Kosi at Ljubljana Academy of Music.
 During his studies, he received two Prešeren student awards, the first for his performance of Bohuslav Martinu's _Viola Concerto in C major_, with Slovenian Philharmonic Orchestra, and the second for his concert achievements with A la Corda string quartet.
 In 2012, he passed the entrance exam to the University of Music and Fine Arts in Vienna, where he continued his studies with prof. H.P. Ochsenhofer.
@@ -90,7 +139,7 @@ In January 2020, after successfully completing his habilitation, the senate of t
 ## **Anuša Plesničar**, viola {: itemprop="member"}
 
 ![Anuša Plesničar]({static}/images/mugshot/Anuša-Plesničar.jpg){:.image-process-mugshot .float-left}
-**Violist and musicologist Anuša Plesničar**, after successfully graduating from Bežigrad Gymnasium, first enrolled in the study of musicology at the Faculty of Arts in Ljubljana.
+**Violist and musicologist _Anuša Plesničar_**, after successfully graduating from Bežigrad Gymnasium, first enrolled in the study of musicology at the Faculty of Arts in Ljubljana.
 In October 2011 she also started her studies of viola at the Academy of Music in Ljubljana, where she was a student in the class of prof. Mile Kosi and assistants prof. Maja Rome.
 As part of Erasmus exchange program, she studied at Musik und Kunst Privatuniversitat der Stadt (MUK) in Vienna, in the class of prof. Herbert Muller.
 In January 2016, she enrolled in the study program "Master Soloist" with a chosen field: chamber music, at College of Music in Detmold (Germany), where in July 2018 she successfully completed her master's degree in the class of prof. Veita Hertenstein.
@@ -99,7 +148,7 @@ In September 2016, she successfully completed her studies in musicology at the D
 As a soloist, she performed with Symphony Orchestra of the Philosophical Philharmonic P. Hindemith's _Mourning Music for Viola and Orchestra_. She was a scholarship holder of City of Ljubljana, a scholarship holder of summer string academy "SAAR 2017" in Saarbrucken, a scholarship holder of Poland chamber music festival "Festival ensemble" 2018.
 She collaborated with the symphony orchestra of House of Culture in Celje, Branimir Slokar Academy orchestra, Young Ljubljana Soloists, the international "EUphony Youth Orchestra", Symphony Orchestra SFK from Klagenfurt, Detmold Chamber Orchestra DKO, Vienna Chamber Orchestra, ensemble for contemporary music "Ear-quake" from Detmold, etc.
 From October 2018 to April 2019, she was a permanent part-time collaborator of Slovenian National Opera and Ballet Theatre of Ljubljana.
-She also regularly collaborates with Slovenian Philharmonic Orchestra, RTV Slovenia Symphony Orchestra, Slovenian Chamber Music Theater, Ljubljana Soloists, Alumni Symphony Orchestra and Amadeo Chamber Orchestra.
+She also regularly collaborates with Slovenian Philharmonic Orchestra, RTV Slovenia Symphony Orchestra, Slovenian Chamber Music Theater, Ljubljana Soloists, Alumni Symphony Orchestra and [Amadeo Chamber Orchestra](http://www.amadeoorchestra.com).
 Since 2017, she has also been a permanent member of the international festival orchestra of ONO Biennial of Contemporary Music "Ostrava days" and the festival of new operas "NODO" in Czech Republic.
 She also collaborated as a moderator with House of Culture in Celje and with Slovenian Philharmonics.
 
@@ -112,7 +161,7 @@ Last but not least, she is the founder of the chamber music project
 ## **Izak Hudnik**, cello {: itemprop="member"}
 
 ![Izak Hudnik]({static}/images/mugshot/Izak-Hudnik.jpg){:.image-process-mugshot .float-right}
-After successfully graduating from Bežigrad Gymnasium, **cellist Izak Hudnik** first studied with Professor Miloš Mlejnik in Ljubljana and Professor Reinhard Latzko in Vienna.
+After successfully graduating from Bežigrad Gymnasium, **cellist _Izak Hudnik_** first studied with Professor Miloš Mlejnik in Ljubljana and Professor Reinhard Latzko in Vienna.
 After completing his master's studies at Salzburg Mozarteum with professor Giovanni Gnocchi, he continued his musical education at Zurich University of the Arts in the class of Thomas Grossenbacher.
 He studied at seminars with D. Grigorjan, S. Isserlis, J. Arp, D. Đorđević, M. Ostertag, R. Nagy, T. Thedéen, P. Muller, C. Polter, T. Svane, J.P. Maintz, M. Brunella and H. Schiff.
 He attended the Vienna Philharmonic Seminar in Trenta and performed with the string quartet at Musikverein.
@@ -132,7 +181,7 @@ He is the recipient of Prešeren Award of the Academy of Music and a former scho
 ## **Katarina Kozjek**, cello {: itemprop="member"}
 
 ![Katarina Kozjek]({static}/images/mugshot/Katarina-Kozjek.jpg){:.image-process-mugshot .float-left}
-**Cellist Katarina Kozjek** enrolled at the Academy of Music in Ljubljana, initially in the class of prof. Igor Škerjanc, but later in February 2019 she received her master's degree in the class of prof. Miloš Mlejnik.
+**Cellist _Katarina Kozjek_** enrolled at the Academy of Music in Ljubljana, initially in the class of prof. Igor Škerjanc, but later in February 2019 she received her master's degree in the class of prof. Miloš Mlejnik.
 As a soloist and chamber musician, she has received several awards at renowned national and international competitions, such as Alfredo and Vanda Marcosig competition in Gorizia, Antonio Salieri competition in Legnag, Ars Nova competition in Trieste, and Davorin Jenko competition in Belgrade and national competition of young Slovenian musicians "TEMSIG".
 She studied with well-known pedagogues Damir Hamidullin, Karmen Pečar Koritnik, David Gregorijan, Julian Arp, Aleksandar Latcković, Konstantin Pfiz, Jörg Widmann, Valery Sokolov, Wen-Sinn Yang, Werner Bärtschi and Goran Bakrač.
 

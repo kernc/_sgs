@@ -5,7 +5,7 @@ hide_in_menu: 1
 template: page-homepage
 
 
-Komorna zasedba Godalni sekstet že od leta 2017 koncertira v slovenskem kulturnem prostoru in izven njega.
+Komorna zasedba **_Slovenski godalni sekstet_** (SGS) že od leta 2017 koncertira v slovenskem kulturnem prostoru, v Evropi in širše.
 Zasedbo sestavljajo vrhunski slovenski glasbeniki mlajše generacije, ki so svoje znanje in izkušnje pridobivali tako doma kot na tujem.
 {: itemprop="description"}
 
@@ -17,7 +17,7 @@ dela in skupnega muziciranja. Na to je opozorilo nenehno pulziranje šesterice,
 ki je godalne interpretacije zgradila na odličnih tehničnih prvinah,
 s katerimi razpolaga vsak posamič in vsi skupaj ...
 </p></blockquote>
-Franc Križnar, SIGIC — Jesenske serenade 2020
+**Franc Križnar**, SIGIC — Jesenske serenade 2020
 {:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400;"}
 
 Podrobneje o sekstetu in članih izveste v rubriki
@@ -26,4 +26,4 @@ Vabljeni tudi, da preletite naš
 [programski list]({filename}/pages/program.md)
 in si ogledate promocijske fotografije v
 [galeriji]({filename}/pages/gallery.md).
-Če so vam vsebine spletne strani všeč, jih mirne duše delite z vašimi najboljšimi prijatelji.
+Vsebine spletne strani, ki so vam všeč, prosto delite med prijatelje.
