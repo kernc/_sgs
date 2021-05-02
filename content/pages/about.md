@@ -61,11 +61,11 @@ v mesecu decembru 2020 pa so glasbeniki prejeli tudi ponudbo za studijsko arhivs
 ![Člani Slovenskega godalnega seksteta]({static}/images/mugshot/Slovenian-String-Sextet-members.jpg){:.image-process-sextet-members}
 {: style="text-align:center"}
 
-Umetnikom komorna glasba, poleg ostalih glasbeniških panog, predstavlja krono glasbenega
+**Umetnikom komorna glasba, poleg ostalih glasbeniških panog, predstavlja krono glasbenega
 ustvarjanja in jih izpolnjuje tako na poklicni kot osebni poti.
 Poleg vsebinske zaokroženosti in tehtnosti programa, kvalitetne in premišljene izvedbe,
 sta njihovi glavni vodili spodbujanje pisanja slovenskih novitet za sestav
-in poudarjena izobraževalna komponenta.
+in poudarjena izobraževalna komponenta.**
 
 Ansambel dveh violin, dveh viol in dveh violončel, kot rečeno, sestavljamo:
 

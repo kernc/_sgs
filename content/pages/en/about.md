@@ -60,10 +60,10 @@ in collaboration with Radio and television of Slovenia.
 ![Members of Slovenian String Sextet]({static}/images/mugshot/Slovenian-String-Sextet-members.jpg){:.image-process-sextet-members}
 {: style="text-align:center"}
 
-For members of our sextet, chamber music, among other musical fields,
+**For members of our sextet, chamber music, among other musical fields,
 represents the crown jewel of musical creation and fulfills them both professionally and personally.
 In addition to the quality of their program, their main contributions are ardent promotion of
-newly written Slovenian works for string sextet and a strongly emphasized educational component.
+newly written Slovenian works for string sextet and a strongly emphasized educational component.**
 
 The ensemble of two violins, two violas and two violoncellos, thus, consists of:
 
