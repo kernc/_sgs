@@ -4,7 +4,7 @@ save_as: en/index.html
 hide_in_menu: 1
 template: page-homepage
 
-The chamber orchestra  **_Slovenian String Sextet_** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
+Chamber orchestra  **_Slovenian String Sextet_** has been since 2017 performing in the Slovenian cultural space, throughout Europe and beyond.
 The chamber ensemble consists of top Slovenian musicians of the younger generation who gather their knowledge and experience both at home and abroad.
 {: itemprop="description"}
 
