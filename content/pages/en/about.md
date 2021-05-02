@@ -141,12 +141,13 @@ In January 2020, after successfully completing his habilitation, the senate of t
 ![Anuša Plesničar]({static}/images/mugshot/Anuša-Plesničar.jpg){:.image-process-mugshot .float-left}
 **Violist and musicologist _Anuša Plesničar_**, after successfully graduating from Bežigrad Gymnasium, first enrolled in the study of musicology at the Faculty of Arts in Ljubljana.
 In October 2011 she also started her studies of viola at the Academy of Music in Ljubljana, where she was a student in the class of prof. Mile Kosi and assistants prof. Maja Rome.
-As part of Erasmus exchange program, she studied at Musik und Kunst Privatuniversitat der Stadt (MUK) in Vienna, in the class of prof. Herbert Muller.
+As part of Erasmus exchange program, she studied at Musik und Kunst Privatuniversität der Stadt (MUK) in Vienna, in the class of prof. Herbert Müller.
 In January 2016, she enrolled in the study program "Master Soloist" with a chosen field: chamber music, at College of Music in Detmold (Germany), where in July 2018 she successfully completed her master's degree in the class of prof. Veita Hertenstein.
 In September 2016, she successfully completed her studies in musicology at the Department of Musicology in Ljubljana with her thesis "Reception of musical art and thought by Richard Wagner in Slovenian cultural space" for which she was nominated for Prešeren award at the Faculty of Arts in Ljubljana and is since 2019 continuing with her PhD studies at the Department of Musicology of the Faculty of Arts in Ljubljana, where her research field covers opera issues in the Slovenian cultural space.
 
 As a soloist, she performed with Symphony Orchestra of the Philosophical Philharmonic P. Hindemith's _Mourning Music for Viola and Orchestra_. She was a scholarship holder of City of Ljubljana, a scholarship holder of summer string academy "SAAR 2017" in Saarbrucken, a scholarship holder of Poland chamber music festival "Festival ensemble" 2018.
 She collaborated with the symphony orchestra of House of Culture in Celje, Branimir Slokar Academy orchestra, Young Ljubljana Soloists, the international "EUphony Youth Orchestra", Symphony Orchestra SFK from Klagenfurt, Detmold Chamber Orchestra DKO, Vienna Chamber Orchestra, ensemble for contemporary music "Ear-quake" from Detmold, etc.
+
 From October 2018 to April 2019, she was a permanent part-time collaborator of Slovenian National Opera and Ballet Theatre of Ljubljana.
 She also regularly collaborates with Slovenian Philharmonic Orchestra, RTV Slovenia Symphony Orchestra, Slovenian Chamber Music Theater, Ljubljana Soloists, Alumni Symphony Orchestra and [Amadeo Chamber Orchestra](http://www.amadeoorchestra.com).
 Since 2017, she has also been a permanent member of the international festival orchestra of ONO Biennial of Contemporary Music "Ostrava days" and the festival of new operas "NODO" in Czech Republic.
@@ -154,7 +155,8 @@ She also collaborated as a moderator with House of Culture in Celje and with Slo
 
 Since 2011, she has been a journalist to the music magazine Glasna (Musical Youth Slovenia), since 2016, an editor of Kristalni abonma of Sokolski dom in Škofja Loka, and since 2018 also for a chamber music festival Carpe artem in Maribor.
 With conductor and pianist Tilen Draksler, she is the co-founder of Amadeo Chamber Orchestra and also the creative director of Amadeo Festival ("From Škofja Loka to Sorica"), which includes a summer school for musicians and art workshops since 2019.
-Last but not least, she is the founder of the chamber music project
+In March 2021, she took over the management of Slovenian Musicological Society for a period of four years.
+She is also the founder of the chamber music project
 [_Slovenian string sextet_](https://godalni-sekstet.si).
 
 

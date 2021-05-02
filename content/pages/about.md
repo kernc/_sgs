@@ -148,26 +148,30 @@ V mesecu januarju 2020 ga je senat Akademije za glasbo v Ljubljani po uspešno o
 
 ![Anuša Plesničar]({static}/images/mugshot/Anuša-Plesničar.jpg){:.image-process-mugshot .float-left}
 **Violistka in muzikologinja _Anuša Plesničar_** se je po uspešno opravljeni maturi na Gimnaziji Bežigrad sprva vpisala na študij muzikologije na Filozofski fakulteti v Ljubljani in oktobra 2011 vzporedno še na študij viole na Akademijo za glasbo v Ljubljani, kjer je bila študentka v razredu prof. Mileja Kosija in asistentke prof. Maje Rome.
-V okviru izmenjave se je po uspešno opravljenem preizkusu izobraževala na Musik und Kunst Privatuniversitat der Stadt (MUK) na Dunaju, v razredu prof. Herberta Mullerja.
+V okviru izmenjave se je po uspešno opravljenem preizkusu izobraževala na Musik und Kunst Privatuniversität der Stadt (MUK) na Dunaju, v razredu prof. Herberta Müllerja.
 Januarja 2016 se je vpisala v študijski program "Master soloist" z izbrano smerjo: komorna igra, na Visoki šoli za glasbo v Detmoldu (Nemčija), kjer je julija 2018 z uspehom magistrirala v razredu prof. Veita Hertensteina.
-V septembru 2016 je na Oddelku za muzikologijo Filozofske fakultete Univerze v Ljubljani uspešno zaključila študij muzikologije z diplomskim delom "Recepcija glasbene umetnosti in misli Richarda Wagnerja v slovenskem kulturnem prostoru", za katero je bila nominirana za Prešernovo nagrado) in se v septembru 2019 vpisala tudi na doktorski študij Oddelka za muzikologijo Filozofske fakultete Univerze v Ljubljani, kjer njeno raziskovalno polje zajema operno problematiko v slovenskem kulturnem prostoru.
+V septembru 2016 je na Oddelku za muzikologijo Filozofske fakultete Univerze v Ljubljani uspešno zaključila študij muzikologije z diplomskim delom "Recepcija glasbene umetnosti in misli Richarda Wagnerja v slovenskem kulturnem prostoru", za katero je bila nominirana za Prešernovo nagrado, in se v septembru 2019 vpisala tudi na doktorski študij Oddelka za muzikologijo Filozofske fakultete Univerze v Ljubljani, kjer njeno raziskovalno polje zajema operno problematiko v slovenskem kulturnem prostoru.
 
-Kot glasbenica je v letih svojega delovanja sodelovala z mnogimi orkestri in komornimi sestavi na kulturnem področju Slovenije in izven njenih meja. Bila je redna članica komornih orkestrov Camerata medica, Arseia iz Škofje Loke, godalnega kvarteta Arseia (Ljubljana) in godalnega kvinteta Vero (Dunaj).
+Kot glasbenica je v letih svojega delovanja sodelovala z mnogimi orkestri in komornimi sestavi na kulturnem področju Slovenije in izven njenih meja.
+Bila je redna članica komornih orkestrov Camerata medica, Arseia iz Škofje Loke, godalnega kvarteta Arseia (Ljubljana) in godalnega kvinteta Vero (Dunaj).
 Kot solistka je nastopila s simfoničnim orkestrom Filozofske Filharmonije z _Žalno glasbo za violo in orkester_ P. Hindemitha.
 Bila je štipendistka Mestne občine Ljubljana, štipendistka poletne godalne akademije "SAAR 2017" v Saarbrucknu, štipendistka festivala komorne glasbe na Poljskem "Festival ensamble" 2018.
 Sodelovala je s simfoničnim orkestrom Hiše kulture v Celju, orkestrom Akademije Branimirja Slokarja, Mladimi ljubljanskimi solisti, mednarodnim orkestrom EUphony Youth Orchestra, Simfoničnim orkestrom SFK iz Celovca, Komornim orkestrom DKO iz Detmolda, komornim orkestrom iz Dunaja, ansamblom za sodobno glasbo "Ear-quake" iz Detmolda itd.
-Od oktobra 2018 do aprila 2019 je bila stalna honorarna sodelavka orkestra SNG Opere in baleta v Ljubljani, redno sodeluje tudi z Orkestrom Slovenske filharmonije, Simfoničnim orkestrom RTV Slovenije, Slovenskim komornim glasbenim gledališčem, Ljubljanskimi solisti, Simfoničnim orkestrom Alumni in komornim orkestrom Amadeo, kjer zaseda mesto vodje viol.
+
+Od oktobra 2018 do aprila 2019 je bila stalna honorarna sodelavka orkestra SNG Opera in balet v Ljubljani, redno sodeluje tudi z Orkestrom Slovenske filharmonije, Simfoničnim orkestrom RTV Slovenije, Slovenskim komornim glasbenim gledališčem, Ljubljanskimi solisti, Simfoničnim orkestrom Alumni in komornim orkestrom Amadeo, kjer zaseda mesto vodje viol.
 Od leta 2017 je tudi stalna članica mednarodnega festivalnega orkestra ONO bienala sodobne glasbe "Ostrava days" in festivala novih opernih del "NODO" na Češkem, s katerim sodeluje kot soloviolistka orkestra in komorna glasbenica.
 Svoje strokovno znanje dopolnjuje z redno pedagoško prakso kot vodja sekcijskih vaj za godalce na Filozofski fakulteti Univerze v Ljubljani in profesorica violine in viole na Glasbeni šoli Škofja Loka.
 
 Kot študentka Oddelka za muzikologijo Filozofske fakultete v Ljubljani je sodelovala s prispevkom "Sodobna glasba med mladimi v slovenskem kulturnem prostoru" v letu 2011 v okviru Slovenskih glasbenih dni na študentskem simpoziju "Glasba in mladi" in v letu 2012 na mednarodnem (povezava fakultet: Gradec – Zagreb – Ljubljana) študentskem simpoziju v Zagrebu s prispevkom "Wagner med Slovenci".
 Bila je predsednica študentske sekcije Muzikološkega društva Slovenije (2011–2014), kjer je organizirala oz. soorganizirala: ekskurzije na Dunaj, ekskurzijo na Bavarsko "Po poteh R. Wagnerja", pogovore s skladatelji, okroglo mizo in različna predavanja.
 V letu 2014 je bila kot predsednica študentske sekcije tudi pobudnica in pomoč pri organizaciji "Slavnostne akademije ob 50-letnici Oddelka za muzikologijo v Ljubljani".
-V okviru Slovenskih glasbenih dni je v letu 2011 pripravila pogovor s skladateljico Bojana Šaljič-Podešva in v okviru Festivala Maribor učno pripravo za učence in učitelje koncerta z naslovom "Pa kaj!?", kjer se je tudi udeležila delavnice o "Kreativnem pisanju v in o kulturi" (september 2012) in sodelovala pri študentskem muzikološkem blogu UHO 535B.
+V okviru Slovenskih glasbenih dni je v letu 2011 pripravila pogovor s skladateljico Bojano Šaljič-Podešva in v okviru Festivala Maribor učno pripravo za učence in učitelje koncerta z naslovom "Pa kaj!?", kjer se je tudi udeležila delavnice o "Kreativnem pisanju v in o kulturi" (september 2012) in sodelovala pri študentskem muzikološkem blogu UHO 535B.
 Sodelovala je tudi kot moderatorka s Hišo kulture v Celju (cikel Vesperae musicae) in Slovensko filharmonijo (otroški cikel).
+
 Od leta 2011 je stalna sodelavka glasbene revije Glasna (Glasbene mladine Slovenije), od leta 2016 Kristalnega abonmaja Sokolskega doma v Škofji Loki ter od leta 2018 tudi sodelavka komornega cikla Carpe artem iz Maribora.
 Poleg dirigenta in pianista Tilna Drakslerja je soustanoviteljica komornega Orkestra Amadeo in nadalje kreativni vodja Festivala Amadeo ("Od Škofje Loke do Sorice"), ki poleg koncertne dejavnosti vključuje tudi poletno šolo za glasbenike in od leta 2019 tudi likovne delavnice.
-Nenazadnje, je tudi idejni vodja projekta za komorno glasbo
+V marcu 2021 je za obdobje štirih let prevzela vodenje Slovenskega muzikološkega društva.
+Je tudi idejni vodja projekta za komorno glasbo
 [_Slovenski godalni sekstet_](https://godalni-sekstet.si).
 
 
