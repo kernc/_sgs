@@ -18,3 +18,8 @@
         }
     });
 })();
+
+document.addEventListener('copy', ev => {
+    ev.clipboardData.setData('text/plain', document.getSelection().toString() + '\n \n' + window.location);
+    ev.preventDefault();
+});
