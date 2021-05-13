@@ -27,9 +27,10 @@ Oznanjamo naslednje koncerte v poletju 2021:
       <br>∗ ∗ ∗
     * Pjotr Iljič Čajkovski: Godalni sekstet v D-molu, Op. 70, _"Spomin na Firence"_
 
-4.  Celovečerni koncert, 15. julij v Piranu.
+4.  [43. Piranski glasbeni večeri](https://www.avditorij.si/si/program/glasba/43-piranski-glasbeni-veceri-slovenski-godalni-sekstet), 15. julij v Piranu.
     Program:
     * Larisa Vrhunc: Sekstet
+    * Uroš Krek: Godalni sesktet na temo Franka Martina
       <br>∗ ∗ ∗
     * Pjotr Iljič Čajkovski: Godalni sekstet v D-molu, Op. 70, _"Spomin na Firence"_
 

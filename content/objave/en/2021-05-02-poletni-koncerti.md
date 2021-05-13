@@ -28,9 +28,10 @@ Announcing the following concerts in the summer of 2021:
       <br>∗ ∗ ∗
     * Pyotr Ilyich Tchaikovsky: String Sextet in D minor, Op. 70, _"Souvenir de Florence"_
 
-4.  Evening koncert, 15 July, Piran.
+4.  [43th musical evening](https://www.avditorij.si/si/program/glasba/43-piranski-glasbeni-veceri-slovenski-godalni-sekstet), 15 July, Piran.
     Program:
     * Larisa Vrhunc: Sextet
+    * Uroš Krek: String Sextet on a theme by Frank Martin
       <br>∗ ∗ ∗
     * Pyotr Ilyich Tchaikovsky: String Sextet in D minor, Op. 70, _"Souvenir de Florence"_
 
