@@ -118,12 +118,8 @@ STATIC_PATHS = [
     'images',
     'static',
 ]
-from datetime import datetime
 EXTRA_PATH_METADATA = {
-    'static': {
-        'path': '',  # Place at web root
-        'title':'', 'date': datetime.fromtimestamp(0),  # Don't interpret HTMLs as articles
-    },
+    'static': {'path': ''},
 }
 
 ## Plugins ###########################################################
