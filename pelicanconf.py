@@ -23,6 +23,7 @@ PATH = 'content'
 OUTPUT_PATH = 'output/'
 READERS = {
     'rst': None,  # Disable docutils/reST
+    'html': None,
 }
 
 TIMEZONE = 'Europe/Ljubljana'
@@ -118,6 +119,7 @@ STATIC_PATHS = [
     'images',
     'static',
 ]
+from datetime import datetime
 EXTRA_PATH_METADATA = {
     'static': {'path': ''},
 }
@@ -126,9 +128,9 @@ EXTRA_PATH_METADATA = {
 
 PLUGIN_PATHS = ['my-plugins', 'pelican-plugins']
 PLUGINS = []
-PLUGINS.append('css-html-js-minify')
-PLUGINS.append('optimize_images')
-PLUGINS.append('w3c_validate')
+# ~ PLUGINS.append('css-html-js-minify')
+# ~ PLUGINS.append('optimize_images')
+# ~ PLUGINS.append('w3c_validate')
 
 PLUGINS.append('sitemap')
 SITEMAP = {
