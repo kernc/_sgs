@@ -255,6 +255,7 @@ LOGO_LINKS = [
     ('Glasbena mladina ljubljanska', 'https://www.gml-drustvo.si'),
     ('Nauportus Viva', 'https://nauportus.wordpress.com'),
     ('Revija Glasna', 'http://www.revijaglasna.si'),
+    ('Javni zavod Mladi zmaji', 'https://www.mladizmaji.si'),
     ('Mestni muzej Ljubljana', 'https://mgml.si/sl/mestni-muzej/'),
     ('Hiša kulture Celje', 'http://www.hisakulture.si'),
     ('Kulturno društvo Kropa', 'https://kultura-kropa.si'),
