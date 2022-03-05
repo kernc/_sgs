@@ -27,7 +27,7 @@
 #nav li {
     display: inline-block;
 
-    margin: .3em 1em;
+    margin: 0 1em;
 }
 
 body > main > article {
