@@ -44,16 +44,15 @@
     }
 
     .row {
-        grid-gap: 4em;
+        grid-gap: 3em;
         grid-auto-flow: column;
     }
-    @media (min-width: 770px) {
+    @media (min-width: 900px) {
         .row {
             display: grid;
-            padding: 3em 0;
         }
     }
-    @media (min-width: 1000px) { .row { padding: 3em; } }
+    @media (min-width: 1000px) { .row { padding: 3em 0; } }
 
     .excerpt {
         font-size: 1.1em;
@@ -106,23 +105,57 @@
     <img alt width="2000" height="1200" src="{{ SITEURL }}/images/parallax/Slovenski-godalni-sekstet.jpg" class="hero-image image-process-homepage" itemprop="image" aria-hidden="true">
 
     <div class="row">
-        <article class="excerpt">
-            {{ page.content }}
-        </article>
+        <div>
+            <article class="excerpt">
+                {{ page.content }}
+            </article>
 
-        <article class="news">
-            <h4>{{ T('Zadnje objave', lang) }}</h4>
-            <ol>
-            {% for article in TOP_ARTICLES(articles, lang)[:5] %}
-                <li><article>
-                    <h5><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
-                    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
-                </article></li>
-            {% endfor %}
-            </ol>
-        </article>
+            <article class="news">
+                <h4>{{ T('Zadnje objave', lang) }}</h4>
+                <ol>
+                {% for article in TOP_ARTICLES(articles, lang)[:5] %}
+                    <li><article>
+                        <h5><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
+                        <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+                    </article></li>
+                {% endfor %}
+                </ol>
+            </article>
+        </div>
+
+        <div style="text-align: center; margin-bottom: 2em">
+            <script async defer src="https://connect.facebook.net/sl_SI/sdk.js#xfbml=1&version=v13.0&appId=&autoLogAppEvents=1"></script>
+            <div class="fb-page"
+                 data-tabs="timeline"
+                 data-href="https://www.facebook.com/Slovenski-godalni-sekstet-111235971474416/"
+                 data-width="500"
+                 data-height="500"
+                 data-hide-cover="true"
+                 data-small-header="true"
+                 data-hide-cta="true"
+                 data-lazy="true"
+                 data-show-facepile="true"></div>
+            <script>
+                (()=>{
+                    let sizes = [
+                        [1900, [500, 550]],
+                        [1800, [500, 600]],
+                        [1400, [500, 600]],
+                        [1300, [500, 700]],
+                        [1200, [500, 830]],
+                        [1100, [400, 820]],
+                        [1000, [400, 900]],
+                        [900, [300, 850]]
+                    ];
+                    let [_, [w, h]] = sizes.find(([w, _]) => window.innerWidth >= w) || [0, [500, 500]];
+                    let el = document.currentScript.previousElementSibling;
+                    el.dataset.width = w;
+                    el.dataset.height = h;
+                })();
+            </script>
+        </div>
+
     </div>
-
     <ul class="partners">
         {% for alt, href in LOGO_LINKS %}
         {% set image = '{}/images/logos/{}.png'.format(SITEURL, alt.lower().replace(' ', '-')) %}
