@@ -1,5 +1,5 @@
 "use strict";
-(()=>{
+document.addEventListener('load', () => {
     const toggle = document.getElementById('menu-toggle');
     toggle.checked = false;
 
@@ -17,7 +17,7 @@
             toggle.checked = false;
         }
     });
-})();
+});
 
 document.addEventListener('copy', ev => {
     ev.clipboardData.setData('text/plain', document.getSelection().toString() + '\n \n' + window.location);
