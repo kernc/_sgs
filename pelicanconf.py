@@ -260,6 +260,7 @@ LOGO_LINKS = [
     ('Hiša kulture Celje', 'http://www.hisakulture.si'),
     ('Kulturno društvo Kropa', 'https://kultura-kropa.si'),
     ('ZRC SAZU', 'https://www.zrc-sazu.si'),
+    ('Sokolski dom Škofja Loka', 'https://www.sokolskidom.si'),
     ('Radio televizija Slovenija', 'https://www.rtvslo.si/rtv/kdo-smo/glasbena-produkcija'),
     ('Imago Sloveniae', 'https://imagosloveniae.net'),
     ('Univerza v Ljubljani, Akademija za glasbo', 'http://www.ag.uni-lj.si'),
