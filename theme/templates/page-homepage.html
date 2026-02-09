@@ -117,7 +117,7 @@
             <article class="news">
                 <h4>{{ T('Zadnje objave', lang) }}</h4>
                 <ol>
-                {% for article in TOP_ARTICLES(articles, lang)[:5] %}
+                {% for article in TOP_ARTICLES(articles, lang)[:9] %}
                     <li><article>
                         <h5><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
                         <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
