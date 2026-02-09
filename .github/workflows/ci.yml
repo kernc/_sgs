@@ -15,17 +15,17 @@ jobs:
     name: Build & Deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v6
         with:
-          python-version: '3.7'
+          python-version: '3.11'
 
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
         with:
           ref: dev
 
       - name: Checkout pelican-plugins
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
         with:
           repository: getpelican/pelican-plugins
           path: pelican-plugins
@@ -34,7 +34,7 @@ jobs:
           git submodule update --init -- deadlinks
           popd
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v5
         with:
           path: ~/.cache/pip
           key: pip-${{ hashFiles('**/requirements.txt') }}
@@ -64,7 +64,7 @@ jobs:
 
       - name: Checkout gh-pages
         if: ${{ github.event_name == 'push' }}
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
         with:
           ref: gh-pages
           path: gh-pages
