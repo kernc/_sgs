@@ -9,16 +9,23 @@ Komorna zasedba **_Slovenski godalni sekstet_** (SGS) že od leta 2017 koncertir
 Zasedbo sestavljajo vrhunski slovenski glasbeniki mlajše generacije, ki so svoje znanje in izkušnje pridobivali tako doma kot na tujem.
 {: itemprop="description"}
 
-<blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" style="font-size: .9em; font-weight: 100; font-style: italic;" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><p>
+<blockquote cite="https://www.sigic.si/jesenske-serenade-2020.html" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><p>
 ... Polnozvočnost godalnega zvoka je bil tisti pleno, po katerem ima sekstet,
 ustanovljen kot projektni ansambel leta 2017, že svoj pedigre.
 Slišati je bilo, kot da imajo glasbeniki za seboj že ne vem koliko desetletij
 dela in skupnega muziciranja. Na to je opozorilo nenehno pulziranje šesterice,
 ki je godalne interpretacije zgradila na odličnih tehničnih prvinah,
 s katerimi razpolaga vsak posamič in vsi skupaj ...
-</p><meta itemprop="reviewCount" content="1"><meta itemprop="ratingValue" content="4.9"></blockquote>
+</p><meta itemprop="reviewCount" content="2"><meta itemprop="ratingValue" content="4.9"></blockquote>
 **Franc Križnar**, SIGIC — Jesenske serenade 2020
 {:style="margin:0 0 3em 40px; font-size: .8em; font-weight: 400; text-align: start;"}
+
+<blockquote cite="https://www.facebook.com/Slovenski-godalni-sekstet-111235971474416/"><p>
+Mimogrede ste dobili novega zagretega sledilca in oboževalca.
+Glasba je res univerzalni čustveni jezik.
+Vaša glasbena govorica ne more nikogar pustiti ravnodušnega.
+Hvala.
+</p></blockquote>
 
 Podrobneje o sekstetu in članih izveste v rubriki
 [o nas]({filename}/pages/about.md).
