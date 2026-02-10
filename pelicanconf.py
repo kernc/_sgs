@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from glob import glob
 
 ## Development ######################################################
 
@@ -119,9 +120,10 @@ STATIC_PATHS = [
     'images',
     'static',
 ]
-from datetime import datetime
 EXTRA_PATH_METADATA = {
-    'static': {'path': ''},
+    # Copy /static/* to /*
+    **{fname: {'path': fname[len('static/'):]}
+    for fname in glob('static/**', root_dir=PATH, recursive=True)},
 }
 
 ## Plugins ###########################################################
