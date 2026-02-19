@@ -266,7 +266,7 @@ LOGO_LINKS = [
     ('ZRC SAZU', 'https://www.zrc-sazu.si'),
     ('Sokolski dom Škofja Loka', 'https://www.sokolskidom.si'),
     ('Radio televizija Slovenija', 'https://www.rtvslo.si/rtv/kdo-smo/glasbena-produkcija'),
-    ('Vreme 3', 'https://vreme3.si'),
+    ('Vreme 3 radar, radarska slika padavin', 'https://vreme3.si'),
     ('Šahovski klub Stonoga', 'https://sah-stonoga.si'),
     ('Imago Sloveniae', 'https://imagosloveniae.net'),
     ('Fotogrof.si', 'https://fotogrof.si'),
