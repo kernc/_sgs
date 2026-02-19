@@ -161,7 +161,7 @@
 
     </div>
 
-    <h3>Poslušajo nas</h3>
+    <h3>{{ T('Poslušajo nas', lang) }}</h3>
     <ul class="partners">
         {% for alt, href in LOGO_LINKS %}
         {% set image = '{}/images/logos/{}.png'.format(SITEURL, alt.lower().replace(' ', '-')) %}
