@@ -15,13 +15,12 @@ import os.path
 import posixpath
 import re
 
-import six
 from bs4 import BeautifulSoup
 from pelican import __version__ as pelican_version
 from pelican import signals
 from PIL import Image, ImageFilter
-from six.moves.urllib_parse import unquote, urljoin, urlparse
-from six.moves.urllib_request import pathname2url, url2pathname
+from urllib.parse import unquote, urljoin, urlparse
+from urllib.request import pathname2url, url2pathname
 
 
 log = logging.getLogger(__name__)
@@ -314,7 +313,7 @@ def build_srcset(img, settings, derivative):
     process = settings["IMAGE_PROCESS"][derivative]
 
     default = process["default"]
-    if isinstance(default, six.string_types):
+    if isinstance(default, str):
         breakpoints = {i for i, _ in process["srcset"]}
         if default not in breakpoints:
             log.error(
@@ -389,7 +388,7 @@ def convert_div_to_picture_tag(soup, img, group, settings, derivative):
                 (default_source_name,),
             )
 
-        if isinstance(default[1], six.string_types):
+        if isinstance(default[1], str):
             default_item_name = default[1]
 
         elif isinstance(default[1], list):
@@ -508,7 +507,7 @@ def process_picture(soup, img, group, settings, derivative):
                 (default_source_name,),
             )
 
-        if isinstance(default[1], six.string_types):
+        if isinstance(default[1], str):
             default_item_name = default[1]
 
         elif isinstance(default[1], list):
